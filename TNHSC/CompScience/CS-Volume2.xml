@@ -2,7 +2,7 @@
 <chapter-questions>
 <chapter name="OBJECT ORIENTED CONCEPTS USING C++" number="01">
 <question>
-<questionID>TNHSCS02010001</questionID>
+<questionID>TNHSCCS02010001</questionID>
 <question-text>...........is a tool to solve a wide range of problems.</question-text>
 <answer0>Computer</answer0>
 <answer1>Keyboard</answer1>
@@ -13,7 +13,7 @@
 <correctAnswer>Computer</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02010010</questionID>
+<questionID>TNHSCCS02010010</questionID>
 <question-text>........... is the mechanism by which the data and functions are bound together within an object definition.</question-text>
 <answer0>Encapsulation</answer0>
 <answer1>Polymorphism</answer1>
@@ -24,7 +24,7 @@
 <correctAnswer>Encapsulation</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02010011</questionID>
+<questionID>TNHSCCS02010011</questionID>
 <question-text>The ability of an object to respond differently to different message is called as</question-text>
 <answer0>encapsulation</answer0>
 <answer1>polymorphism</answer1>
@@ -35,7 +35,7 @@
 <correctAnswer>polymorphism</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02010012</questionID>
+<questionID>TNHSCCS02010012</questionID>
 <question-text>The data ___________conventionally represents an object in the real world.</question-text>
 <answer0>class</answer0>
 <answer1>register</answer1>
@@ -46,7 +46,7 @@
 <correctAnswer>class</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02010013</questionID>
+<questionID>TNHSCCS02010013</questionID>
 <question-text>Process of acquiring the base class properties is called</question-text>
 <answer0>encapsulation</answer0>
 <answer1>polymorphism</answer1>
@@ -57,7 +57,7 @@
 <correctAnswer>inheritance</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02010014</questionID>
+<questionID>TNHSCCS02010014</questionID>
 <question-text>............data type allows programs to organize as objects that contain both data and functions.</question-text>
 <answer0>Class</answer0>
 <answer1>Register</answer1>
@@ -68,7 +68,7 @@
 <correctAnswer>Class</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02010015</questionID>
+<questionID>TNHSCCS02010015</questionID>
 <question-text>............of data provides security to data.</question-text>
 <answer0>Data hiding</answer0>
 <answer1>Abstraction</answer1>
@@ -79,7 +79,7 @@
 <correctAnswer>Data hiding or abstraction</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02010016</questionID>
+<questionID>TNHSCCS02010016</questionID>
 <question-text>............ reduces the software complexity.</question-text>
 <answer0>Encapsulation</answer0>
 <answer1>Polymorphism</answer1>
@@ -90,7 +90,7 @@
 <correctAnswer>Polymorphism</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02010017</questionID>
+<questionID>TNHSCCS02010017</questionID>
 <question-text>............allows a class to be derived from an existing class.</question-text>
 <answer0>Encapsulation</answer0>
 <answer1>Polymorphism</answer1>
@@ -101,7 +101,7 @@
 <correctAnswer>Inheritance</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02010018</questionID>
+<questionID>TNHSCCS02010018</questionID>
 <question-text>............model entities in the real world.</question-text>
 <answer0>High level language</answer0>
 <answer1>Structured programming language</answer1>
@@ -112,7 +112,7 @@
 <correctAnswer>Object oriented programming language</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02010002</questionID>
+<questionID>TNHSCCS02010002</questionID>
 <question-text>The solutions to the problems are in the form of computer program or</question-text>
 <answer0>system software</answer0>
 <answer1>application software</answer1>
@@ -123,7 +123,7 @@
 <correctAnswer>application software</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02010003</questionID>
+<questionID>TNHSCCS02010003</questionID>
 <question-text>In the early programming languages the input and output data items were represented as</question-text>
 <answer0>variables</answer0>
 <answer1>constants</answer1>
@@ -134,7 +134,7 @@
 <correctAnswer>variables</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02010004</questionID>
+<questionID>TNHSCCS02010004</questionID>
 <question-text>Which one is the example of object oriented programming languages.</question-text>
 <answer0>C</answer0>
 <answer1>C + +</answer1>
@@ -145,7 +145,7 @@
 <correctAnswer>C + +</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02010005</questionID>
+<questionID>TNHSCCS02010005</questionID>
 <question-text>Group of data and operations together are termed</question-text>
 <answer0>object</answer0>
 <answer1>state</answer1>
@@ -156,7 +156,7 @@
 <correctAnswer>object</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02010006</questionID>
+<questionID>TNHSCCS02010006</questionID>
 <question-text>.......... represent the behaviour of the object.</question-text>
 <answer0>Operation</answer0>
 <answer1>Dimension</answer1>
@@ -167,7 +167,7 @@
 <correctAnswer>Operation</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02010007</questionID>
+<questionID>TNHSCCS02010007</questionID>
 <question-text>...........refers to its physical features like its dimensions, buttons, display screen, operators and the like.</question-text>
 <answer0>State</answer0>
 <answer1>Behaviour</answer1>
@@ -178,7 +178,7 @@
 <correctAnswer>State</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02010008</questionID>
+<questionID>TNHSCCS02010008</questionID>
 <question-text>........... refers to the kind of functions it can perform like addition , subtraction, storing in memory, erasing memory and the like.</question-text>
 <answer0>State</answer0>
 <answer1>Behaviour</answer1>
@@ -189,7 +189,7 @@
 <correctAnswer>Behaviour</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02010009</questionID>
+<questionID>TNHSCCS02010009</questionID>
 <question-text>An ........... is a kind of a self-sufficient subprogram with a specific functional area.</question-text>
 <answer0>state</answer0>
 <answer1>behaviour</answer1>
@@ -202,7 +202,7 @@
 </chapter>
 <chapter name="IMPACT OF COMPUTERS ON SOCIETY" number="10">
 <question>
-<questionID>TNHSCS02100001</questionID>
+<questionID>TNHSCCS02100001</questionID>
 <question-text>What will be the 85% usage of computer?</question-text>
 <answer0>CWord Processing</answer0>
 <answer1>Power point</answer1>
@@ -213,7 +213,7 @@
 <weightage>8</weightage>
 </question>
 <question>
-<questionID>TNHSCS02100010</questionID>
+<questionID>TNHSCCS02100010</questionID>
 <question-text>........... store personal details like family photographs</question-text>
 <answer0>Personal archives</answer0>
 <answer1>Emotion containers</answer1>
@@ -224,7 +224,7 @@
 <weightage>8</weightage>
 </question>
 <question>
-<questionID>TNHSCS02100011</questionID>
+<questionID>TNHSCCS02100011</questionID>
 <question-text>Devices with ...........feature allowing one to sing along</question-text>
 <answer0>kara-oke</answer0>
 <answer1>camera</answer1>
@@ -235,7 +235,7 @@
 <weightage>8</weightage>
 </question>
 <question>
-<questionID>TNHSCS02100012</questionID>
+<questionID>TNHSCCS02100012</questionID>
 <question-text>...........that function as Electronic pets.</question-text>
 <answer0>Bookshelf</answer0>
 <answer1>Memo frame</answer1>
@@ -246,7 +246,7 @@
 <weightage>8</weightage>
 </question>
 <question>
-<questionID>TNHSCS02100013</questionID>
+<questionID>TNHSCCS02100013</questionID>
 <question-text>...........for easy interaction with other people through</question-text>
 <answer0>Memo frame</answer0>
 <answer1>Bookshelf</answer1>
@@ -257,7 +257,7 @@
 <weightage>8</weightage>
 </question>
 <question>
-<questionID>TNHSCS02100014</questionID>
+<questionID>TNHSCCS02100014</questionID>
 <question-text>Which of the follwing enables data storage and management?</question-text>
 <answer0>Camera</answer0>
 <answer1>Speakers</answer1>
@@ -268,7 +268,7 @@
 <weightage>8</weightage>
 </question>
 <question>
-<questionID>TNHSCS02100015</questionID>
+<questionID>TNHSCCS02100015</questionID>
 <question-text>Which permits banking from the comfort of the home by using internet facility?</question-text>
 <answer0>E - Banking</answer0>
 <answer1>E - Cards</answer1>
@@ -279,7 +279,7 @@
 <weightage>8</weightage>
 </question>
 <question>
-<questionID>TNHSCS02100016</questionID>
+<questionID>TNHSCCS02100016</questionID>
 <question-text>CBT Means?</question-text>
 <answer0>Common Based tutor</answer0>
 <answer1>Computer Based teacher</answer1>
@@ -290,7 +290,7 @@
 <weightage>8</weightage>
 </question>
 <question>
-<questionID>TNHSCS02100017</questionID>
+<questionID>TNHSCCS02100017</questionID>
 <question-text>..........became a key component in the national economy.</question-text>
 <answer0>Shopping</answer0>
 <answer1>Banks</answer1>
@@ -301,7 +301,7 @@
 <weightage>8</weightage>
 </question>
 <question>
-<questionID>TNHSCS02100018</questionID>
+<questionID>TNHSCCS02100018</questionID>
 <question-text>...........enable withdrawal of money from the accounts</question-text>
 <answer0>ATM</answer0>
 <answer1>Robot</answer1>
@@ -312,7 +312,7 @@
 <weightage>8</weightage>
 </question>
 <question>
-<questionID>TNHSCS02100019</questionID>
+<questionID>TNHSCCS02100019</questionID>
 <question-text>........... banking permits banking from the comfort of</question-text>
 <answer0>e-Banking</answer0>
 <answer1>ATM</answer1>
@@ -323,7 +323,7 @@
 <weightage>8</weightage>
 </question>
 <question>
-<questionID>TNHSCS02100002</questionID>
+<questionID>TNHSCCS02100002</questionID>
 <question-text>To reach out the benefits of IT to the common man we need atleast ......... technical elements.</question-text>
 <answer0>one</answer0>
 <answer1>two</answer1>
@@ -334,7 +334,7 @@
 <weightage>8</weightage>
 </question>
 <question>
-<questionID>TNHSCS02100020</questionID>
+<questionID>TNHSCCS02100020</questionID>
 <question-text>You can purchase any product, any brand, any quantity</question-text>
 <answer0>e-Banking</answer0>
 <answer1>e-Shopping</answer1>
@@ -345,7 +345,7 @@
 <weightage>8</weightage>
 </question>
 <question>
-<questionID>TNHSCS02100021</questionID>
+<questionID>TNHSCCS02100021</questionID>
 <question-text>........... that enables online educational programs</question-text>
 <answer0>e-Shopping</answer0>
 <answer1>e-Banking</answer1>
@@ -356,7 +356,7 @@
 <weightage>8</weightage>
 </question>
 <question>
-<questionID>TNHSCS02100022</questionID>
+<questionID>TNHSCCS02100022</questionID>
 <question-text>ATM is an example for</question-text>
 <answer0>E-Shopping</answer0>
 <answer1>E-Banking</answer1>
@@ -367,7 +367,7 @@
 <weightage>8</weightage>
 </question>
 <question>
-<questionID>TNHSCS02100023</questionID>
+<questionID>TNHSCCS02100023</questionID>
 <question-text>Computers are used in many areas of healthcare including</question-text>
 <answer0>Hospital Management System</answer0>
 <answer1>Patient Tracking System</answer1>
@@ -378,7 +378,7 @@
 <weightage>8</weightage>
 </question>
 <question>
-<questionID>TNHSCS02100024</questionID>
+<questionID>TNHSCCS02100024</questionID>
 <question-text>We can purchase any product, any brand , any quantity from anywhere through</question-text>
 <answer0>E-Shopping</answer0>
 <answer1>E-Banking</answer1>
@@ -389,7 +389,7 @@
 <weightage>8</weightage>
 </question>
 <question>
-<questionID>TNHSCS02100003</questionID>
+<questionID>TNHSCCS02100003</questionID>
 <question-text>ATM Stands for</question-text>
 <answer0>Any time money</answer0>
 <answer1>Anywhere money</answer1>
@@ -400,7 +400,7 @@
 <weightage>8</weightage>
 </question>
 <question>
-<questionID>TNHSCS02100004</questionID>
+<questionID>TNHSCCS02100004</questionID>
 <question-text>It is interesting to observe that ........... of computer use word processing</question-text>
 <answer0>75%</answer0>
 <answer1>85%</answer1>
@@ -411,7 +411,7 @@
 <weightage>8</weightage>
 </question>
 <question>
-<questionID>TNHSCS02100005</questionID>
+<questionID>TNHSCCS02100005</questionID>
 <question-text>...........packages have increased the efficiency at work.</question-text>
 <answer0>Word processing</answer0>
 <answer1>Databases</answer1>
@@ -422,7 +422,7 @@
 <weightage>8</weightage>
 </question>
 <question>
-<questionID>TNHSCS02100006</questionID>
+<questionID>TNHSCCS02100006</questionID>
 <question-text>Which of the follwing enables online educational programs leading to degrees and certifications?</question-text>
 <answer0>E-Shopping</answer0>
 <answer1>E-Commerce</answer1>
@@ -433,7 +433,7 @@
 <weightage>8</weightage>
 </question>
 <question>
-<questionID>TNHSCS02100007</questionID>
+<questionID>TNHSCCS02100007</questionID>
 <question-text>........... mounted on the wall to provide better effect</question-text>
 <answer0>LCD screen</answer0>
 <answer1>Emotion container</answer1>
@@ -444,7 +444,7 @@
 <weightage>8</weightage>
 </question>
 <question>
-<questionID>TNHSCS02100008</questionID>
+<questionID>TNHSCCS02100008</questionID>
 <question-text>...........enables data storage and management.</question-text>
 <answer0>Archive unit</answer0>
 <answer1>Emotion containers</answer1>
@@ -455,7 +455,7 @@
 <weightage>8</weightage>
 </question>
 <question>
-<questionID>TNHSCS02100009</questionID>
+<questionID>TNHSCCS02100009</questionID>
 <question-text>...........are small compartments with a screen, speaker</question-text>
 <answer0>Personal archives</answer0>
 <answer1>Emotion containers</answer1>
@@ -466,7 +466,7 @@
 <weightage>8</weightage>
 </question>
 <question>
-<questionID>TNHSCS02100010</questionID>
+<questionID>TNHSCCS02100010</questionID>
 <question-text>The device that converts speech into letter is</question-text>
 <answer0>Speaker</answer0>
 <answer1>Reck Telephone</answer1>
@@ -479,7 +479,7 @@
 </chapter>
 <chapter name="IT ENABLED SERVICES" number="11">
 <question>
-<questionID>TNHSCS02110001</questionID>
+<questionID>TNHSCCS02110001</questionID>
 <question-text>Information technology that helps in improving the quality of service to the users is called</question-text>
 <answer0>ITES i</answer0>
 <answer1>ATM</answer1>
@@ -490,7 +490,7 @@
 <weightage>8</weightage>
 </question>
 <question>
-<questionID>TNHSCS02110010</questionID>
+<questionID>TNHSCCS02110010</questionID>
 <question-text>Computers help us in accessing website r.arvices such as.</question-text>
 <answer0>agriculture marketing network</answer0>
 <answer1>r ar^er guidance</answer1>
@@ -501,7 +501,7 @@
 <weightage>8</weightage>
 </question>
 <question>
-<questionID>TNHSCS02110002</questionID>
+<questionID>TNHSCCS02110002</questionID>
 <question-text>is a special device convert the speech into a letter is an ITES.</question-text>
 <answer0>Modem</answer0>
 <answer1>Dictaphone</answer1>
@@ -512,7 +512,7 @@
 <weightage>8</weightage>
 </question>
 <question>
-<questionID>TNHSCS02110003</questionID>
+<questionID>TNHSCCS02110003</questionID>
 <question-text>............ adds value to traditional services by reducing</question-text>
 <answer0>ITES</answer0>
 <answer1>FAT</answer1>
@@ -523,7 +523,7 @@
 <weightage>8</weightage>
 </question>
 <question>
-<questionID>TNHSCS02110004</questionID>
+<questionID>TNHSCCS02110004</questionID>
 <question-text>Identify the IT enabled services.</question-text>
 <answer0>e-Governance</answer0>
 <answer1>call centres</answer1>
@@ -534,7 +534,7 @@
 <weightage>8</weightage>
 </question>
 <question>
-<questionID>TNHSCS02110005</questionID>
+<questionID>TNHSCCS02110005</questionID>
 <question-text>A ........... is sometimes defined a telephone based</question-text>
 <answer0>call centres</answer0>
 <answer1>data managemt</answer1>
@@ -545,7 +545,7 @@
 <weightage>8</weightage>
 </question>
 <question>
-<questionID>TNHSCS02110006</questionID>
+<questionID>TNHSCCS02110006</questionID>
 <question-text>Banking, financial service and insurance sectors are popularly termed ...........</question-text>
 <answer0>Data digitization</answer0>
 <answer1>Medical transcription</answer1>
@@ -556,7 +556,7 @@
 <weightage>8</weightage>
 </question>
 <question>
-<questionID>TNHSCS02110008</questionID>
+<questionID>TNHSCCS02110008</questionID>
 <question-text>...........refers to the conversion of non-digital material to digital form</question-text>
 <answer0>Digitization</answer0>
 <answer1>Transcription</answer1>
@@ -567,7 +567,7 @@
 <weightage>8</weightage>
 </question>
 <question>
-<questionID>TNHSCS02110009</questionID>
+<questionID>TNHSCCS02110009</questionID>
 <question-text>What are the benefits of digitization?</question-text>
 <answer0>long term preservation of the documents</answer0>
 <answer1>storage of important documents at one place</answer1>
@@ -578,7 +578,7 @@
 <weightage>8</weightage>
 </question>
 <question>
-<questionID>TNHSCS02110009</questionID>
+<questionID>TNHSCCS02110009</questionID>
 <question-text>Which is a permanent, legal document that formally states the result of a medical investigation?</question-text>
 <answer0>Medical anatomy</answer0>
 <answer1>Medical document</answer1>
@@ -589,7 +589,7 @@
 <weightage>8</weightage>
 </question>
 <question>
-<questionID>TNHSCS02110009</questionID>
+<questionID>TNHSCCS02110009</questionID>
 <question-text>ITES Stands for?</question-text>
 <answer0>IT Enabled services</answer0>
 <answer1>IT Evolution studies</answer1>
@@ -600,7 +600,7 @@
 <weightage>8</weightage>
 </question>
 <question>
-<questionID>TNHSCS02110009</questionID>
+<questionID>TNHSCCS02110009</questionID>
 <question-text>Expand BPO?</question-text>
 <answer0>Business process outsourcing</answer0>
 <answer1>Business process outsource</answer1>
@@ -611,7 +611,7 @@
 <weightage>8</weightage>
 </question>
 <question>
-<questionID>TNHSCS02110009</questionID>
+<questionID>TNHSCCS02110009</questionID>
 <question-text>Which of the following is not an It enabled services?</question-text>
 <answer0>Call Centres</answer0>
 <answer1>E-Governance</answer1>
@@ -622,7 +622,7 @@
 <weightage>8</weightage>
 </question>
 <question>
-<questionID>TNHSCS02110009</questionID>
+<questionID>TNHSCCS02110009</questionID>
 <question-text>The facility that allows the user to speak into special device called _______ and then convert speech into letter</question-text>
 <answer0>Gramaphone</answer0>
 <answer1>Autophone</answer1>
@@ -633,7 +633,7 @@
 <weightage>8</weightage>
 </question>
 <question>
-<questionID>TNHSCS02110009</questionID>
+<questionID>TNHSCCS02110009</questionID>
 <question-text>Collection, digitization and processing of data is basic function of</question-text>
 <answer0>Data management</answer0>
 <answer1>Data collection</answer1>
@@ -644,7 +644,7 @@
 <weightage>8</weightage>
 </question>
 <question>
-<questionID>TNHSCS02110009</questionID>
+<questionID>TNHSCCS02110009</questionID>
 <question-text>How many steps involved in medical transcription?</question-text>
 <answer0>3</answer0>
 <answer1>2</answer1>
@@ -657,7 +657,7 @@
 </chapter>
 <chapter name="COMPUTER ETHICS" number="12">
 <question>
-<questionID>TNHSCS02120001</questionID>
+<questionID>TNHSCCS02120001</questionID>
 <question-text>Computer ethics has its roots in the work of ...........</question-text>
 <answer0>Norbert Wiener</answer0>
 <answer1>Ken Thompson</answer1>
@@ -668,7 +668,7 @@
 <correctAnswer>Norbert Wiener</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02120010</questionID>
+<questionID>TNHSCCS02120010</questionID>
 <question-text>A ........... is a self replicating program that can cause damage to data and files stored on your computer?</question-text>
 <answer0>piracy</answer0>
 <answer1>virus</answer1>
@@ -679,7 +679,7 @@
 <correctAnswer>virus</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02120011</questionID>
+<questionID>TNHSCCS02120011</questionID>
 <question-text>......... is the illegal access to the network or computer system.</question-text>
 <answer0>Piracy</answer0>
 <answer1>Cracking</answer1>
@@ -690,7 +690,7 @@
 <correctAnswer>Cracking</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02120002</questionID>
+<questionID>TNHSCCS02120002</questionID>
 <question-text>In mid 1960's ........... began to examine unethical and illegal use of computers</question-text>
 <answer0>Donn Parker</answer0>
 <answer1>Norbert Wiener</answer1>
@@ -701,7 +701,7 @@
 <correctAnswer>Donn Parker</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02120003</questionID>
+<questionID>TNHSCCS02120003</questionID>
 <question-text>General guidelines on computer ethics are needed for</question-text>
 <answer0>protection of personal data</answer0>
 <answer1>computer crime</answer1>
@@ -712,7 +712,7 @@
 <correctAnswer>all of these</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02120004</questionID>
+<questionID>TNHSCCS02120004</questionID>
 <question-text>...........refers to the protection of hardware.</question-text>
 <answer0>Physical security</answer0>
 <answer1>Personal security</answer1>
@@ -723,7 +723,7 @@
 <correctAnswer>Physical security</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02120005</questionID>
+<questionID>TNHSCCS02120005</questionID>
 <question-text>........... refers to software setups that permit only</question-text>
 <answer0>Physical security</answer0>
 <answer1>Personal security</answer1>
@@ -734,7 +734,7 @@
 <correctAnswer>Personal security</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02120006</questionID>
+<questionID>TNHSCCS02120006</questionID>
 <question-text>........... refers to protecting data and computer system</question-text>
 <answer0>Physical security</answer0>
 <answer1>Personal security</answer1>
@@ -745,7 +745,7 @@
 <correctAnswer>Personnel security</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02120007</questionID>
+<questionID>TNHSCCS02120007</questionID>
 <question-text>A ...........is any illegal activity using computer software.</question-text>
 <answer0>computer crime</answer0>
 <answer1>data security</answer1>
@@ -756,7 +756,7 @@
 <correctAnswer>computer crime</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02120008</questionID>
+<questionID>TNHSCCS02120008</questionID>
 <question-text>It must be observed that ........... of all computer crimes</question-text>
 <answer0>70%</answer0>
 <answer1>80%</answer1>
@@ -767,7 +767,7 @@
 <correctAnswer>80%</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02120009</questionID>
+<questionID>TNHSCCS02120009</questionID>
 <question-text>Making and using duplicate hardware and software is called ...........</question-text>
 <answer0>physical security</answer0>
 <answer1>personal security</answer1>
@@ -778,7 +778,7 @@
 <correctAnswer>piracy</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02120009</questionID>
+<questionID>TNHSCCS02120009</questionID>
 <question-text>Which of the following is not a way of protection?</question-text>
 <answer0>physical security</answer0>
 <answer1>personal security</answer1>
@@ -789,7 +789,7 @@
 <correctAnswer>piracy</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02120009</questionID>
+<questionID>TNHSCCS02120009</questionID>
 <question-text>Cracking comes under</question-text>
 <answer0>Data security</answer0>
 <answer1>Computer crime</answer1>
@@ -802,7 +802,7 @@
 </chapter>
 <chapter name="OVERVIEW OF C++" number="02">
 <question>
-<questionID>TNHSCS02020001</questionID>
+<questionID>TNHSCCS02020001</questionID>
 <question-text>...........was developed by AT&amp;T.</question-text>
 <answer0>C</answer0>
 <answer1>C++</answer1>
@@ -813,7 +813,7 @@
 <correctAnswer>C++</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02020010</questionID>
+<questionID>TNHSCCS02020010</questionID>
 <question-text>A variable name must begin with an ........</question-text>
 <answer0>alphabet</answer0>
 <answer1>underscore</answer1>
@@ -824,7 +824,7 @@
 <correctAnswer>alphabet or underscore</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02020100</questionID>
+<questionID>TNHSCCS02020100</questionID>
 <question-text>Initializing pointer variable pointing to integer data type with the address of float variable is ...........</question-text>
 <answer0>valid</answer0>
 <answer1>invalid</answer1>
@@ -835,7 +835,7 @@
 <correctAnswer>invalid</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02020101</questionID>
+<questionID>TNHSCCS02020101</questionID>
 <question-text>(%) modulus operator operates on ..... data type only</question-text>
 <answer0>integer</answer0>
 <answer1>double</answer1>
@@ -843,11 +843,11 @@
 <answer3>char</answer3>
 <grouping>01</grouping>
 <weightage>8</weightage>
-<feedback> TNHSCS02020101 => modulus</feedback>
+<feedback> TNHSCCS02020101 => modulus</feedback>
 <correctAnswer>integer</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02020011</questionID>
+<questionID>TNHSCCS02020011</questionID>
 <question-text>Identify the valid identifier.</question-text>
 <answer0>Inum</answer0>
 <answer1>@num</answer1>
@@ -858,7 +858,7 @@
 <correctAnswer>_num</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02020012</questionID>
+<questionID>TNHSCCS02020012</questionID>
 <question-text>...........are data items whose values cannot be changed.</question-text>
 <answer0>Variable</answer0>
 <answer1>Constant</answer1>
@@ -869,7 +869,7 @@
 <correctAnswer>Constant</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02020013</questionID>
+<questionID>TNHSCCS02020013</questionID>
 <question-text>........... are numeric constants.</question-text>
 <answer0>&quot;Kannan&quot;</answer0>
 <answer1>12</answer1>
@@ -880,7 +880,7 @@
 <correctAnswer>Both b and c</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02020014</questionID>
+<questionID>TNHSCCS02020014</questionID>
 <question-text>............ constant must have atleast one digit and must</question-text>
 <answer0>Integer</answer0>
 <answer1>Floating-point</answer1>
@@ -891,7 +891,7 @@
 <correctAnswer>Integer</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02020015</questionID>
+<questionID>TNHSCCS02020015</questionID>
 <question-text>A sequence of digits starting with 0 is treated as.........constant.</question-text>
 <answer0>hexa decimal</answer0>
 <answer1>decimal</answer1>
@@ -902,7 +902,7 @@
 <correctAnswer>octal</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02020016</questionID>
+<questionID>TNHSCCS02020016</questionID>
 <question-text>A sequence of digits starting with Ox is treated as...........</question-text>
 <answer0>hexa decimal</answer0>
 <answer1>decimal</answer1>
@@ -913,7 +913,7 @@
 <correctAnswer>hexa decimal</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02020017</questionID>
+<questionID>TNHSCCS02020017</questionID>
 <question-text>Floating point constant includes an ...........</question-text>
 <answer0>integer portion</answer0>
 <answer1>fractional portion</answer1>
@@ -924,7 +924,7 @@
 <correctAnswer>all of these</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02020018</questionID>
+<questionID>TNHSCCS02020018</questionID>
 <question-text>Identify the valid floating point constant</question-text>
 <answer0>12</answer0>
 <answer1>12.12</answer1>
@@ -935,7 +935,7 @@
 <correctAnswer>12.12</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02020019</questionID>
+<questionID>TNHSCCS02020019</questionID>
 <question-text>........... letter is used to represent the floating-point constant exponent form.</question-text>
 <answer0>E</answer0>
 <answer1>e</answer1>
@@ -946,7 +946,7 @@
 <correctAnswer>E or e</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02020002</questionID>
+<questionID>TNHSCCS02020002</questionID>
 <question-text>C++ was developed in the year ...........</question-text>
 <answer0>1980</answer0>
 <answer1>1979</answer1>
@@ -957,7 +957,7 @@
 <correctAnswer>1980</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02020020</questionID>
+<questionID>TNHSCCS02020020</questionID>
 <question-text>........... constant is a constant that contains a single character enclosed within single quotes</question-text>
 <answer0>Integer</answer0>
 <answer1>Floating point</answer1>
@@ -968,7 +968,7 @@
 <correctAnswer>Character</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02020021</questionID>
+<questionID>TNHSCCS02020021</questionID>
 <question-text>Identify the non-graphic, character constant.</question-text>
 <answer0>backspace</answer0>
 <answer1>null</answer1>
@@ -979,7 +979,7 @@
 <correctAnswer>all of these</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02020022</questionID>
+<questionID>TNHSCCS02020022</questionID>
 <question-text>.Escape sequences&apos; -are- represented &apos; using1 characters prefixed with a ...........</question-text>
 <answer0>/</answer0>
 <answer1>\</answer1>
@@ -987,11 +987,11 @@
 <answer3>%</answer3>
 <grouping>01</grouping>
 <weightage>8</weightage>
-<feedback> TNHSCS02020022 => Question messed up</feedback>
+<feedback> TNHSCCS02020022 => Question messed up</feedback>
 <correctAnswer>\</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02020023</questionID>
+<questionID>TNHSCCS02020023</questionID>
 <question-text>........... as part of the ASCII set.</question-text>
 <answer0>Alphabet</answer0>
 <answer1>Numeral</answer1>
@@ -1002,7 +1002,7 @@
 <correctAnswer>Alphabet</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02020024</questionID>
+<questionID>TNHSCCS02020024</questionID>
 <question-text>........... is a sequence of characters surrounded by double quotes.</question-text>
 <answer0>Integer</answer0>
 <answer1>Character</answer1>
@@ -1013,7 +1013,7 @@
 <correctAnswer>String</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02020025</questionID>
+<questionID>TNHSCCS02020025</questionID>
 <question-text>........... marks the end of the string.</question-text>
 <answer0>&apos;,&apos;</answer0>
 <answer1>&apos;\0&apos;</answer1>
@@ -1021,11 +1021,11 @@
 <answer3>None of these</answer3>
 <grouping>01</grouping>
 <weightage>8</weightage>
-<feedback> TNHSCS02020025 => Answer choice messed up</feedback>
+<feedback> TNHSCCS02020025 => Answer choice messed up</feedback>
 <correctAnswer>&apos;\0&apos;</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02020026</questionID>
+<questionID>TNHSCCS02020026</questionID>
 <question-text>...........is an entity on which an operator acts.</question-text>
 <answer0>Operand</answer0>
 <answer1>Operator</answer1>
@@ -1036,7 +1036,7 @@
 <correctAnswer>Operand</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02020027</questionID>
+<questionID>TNHSCCS02020027</questionID>
 <question-text>Identify the assignment operator.</question-text>
 <answer0>=</answer0>
 <answer1>==</answer1>
@@ -1047,7 +1047,7 @@
 <correctAnswer>=</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02020028</questionID>
+<questionID>TNHSCCS02020028</questionID>
 <question-text>........... operators specific to C++ .</question-text>
 <answer0>::</answer0>
 <answer1>.*</answer1>
@@ -1058,7 +1058,7 @@
 <correctAnswer>all of these</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02020029</questionID>
+<questionID>TNHSCCS02020029</questionID>
 <question-text>The operators...........are used only by the preprocessor.</question-text>
 <answer0>#</answer0>
 <answer1>##</answer1>
@@ -1069,7 +1069,7 @@
 <correctAnswer>both a and b</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02020003</questionID>
+<questionID>TNHSCCS02020003</questionID>
 <question-text>C++ developed in the early by ...........</question-text>
 <answer0>Bjarne Stroustrup</answer0>
 <answer1>Rick Mascitti</answer1>
@@ -1080,7 +1080,7 @@
 <correctAnswer>Bjarne Stroustrup</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02020030</questionID>
+<questionID>TNHSCCS02020030</questionID>
 <question-text>Operators are classifed as ...........</question-text>
 <answer0>unary</answer0>
 <answer1>binary</answer1>
@@ -1091,7 +1091,7 @@
 <correctAnswer>all of these</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02020031</questionID>
+<questionID>TNHSCCS02020031</questionID>
 <question-text>........... operators require one operand.</question-text>
 <answer0>Binary</answer0>
 <answer1>Unary</answer1>
@@ -1102,7 +1102,7 @@
 <correctAnswer>Unary</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02020032</questionID>
+<questionID>TNHSCCS02020032</questionID>
 <question-text>........... operators require two operand.</question-text>
 <answer0>Binary</answer0>
 <answer1>Unary</answer1>
@@ -1113,7 +1113,7 @@
 <correctAnswer>Binary</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02020033</questionID>
+<questionID>TNHSCCS02020033</questionID>
 <question-text>........... operators requires three operands.</question-text>
 <answer0>Ternary</answer0>
 <answer1>Binary</answer1>
@@ -1124,7 +1124,7 @@
 <correctAnswer>Ternary</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02020034</questionID>
+<questionID>TNHSCCS02020034</questionID>
 <question-text>Identify the shift left operator given below.</question-text>
 <answer0>&lt;&lt;</answer0>
 <answer1>&gt;&gt;</answer1>
@@ -1135,7 +1135,7 @@
 <correctAnswer>&lt;&lt;</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02020035</questionID>
+<questionID>TNHSCCS02020035</questionID>
 <question-text>Identify the shift right operator given below.</question-text>
 <answer0>&lt;&lt;</answer0>
 <answer1>&gt;&gt;</answer1>
@@ -1146,7 +1146,7 @@
 <correctAnswer>&gt; &gt;</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02020036</questionID>
+<questionID>TNHSCCS02020036</questionID>
 <question-text>Identify the equality operator given below.</question-text>
 <answer0>= =</answer0>
 <answer1>=</answer1>
@@ -1157,7 +1157,7 @@
 <correctAnswer>= =</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02020037</questionID>
+<questionID>TNHSCCS02020037</questionID>
 <question-text>Identify the dereference operator given below.</question-text>
 <answer0>.</answer0>
 <answer1>-&gt; *</answer1>
@@ -1168,7 +1168,7 @@
 <correctAnswer>.*</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02020038</questionID>
+<questionID>TNHSCCS02020038</questionID>
 <question-text>Identify the ternary operator given below.</question-text>
 <answer0>-&gt; *</answer0>
 <answer1>?:</answer1>
@@ -1179,7 +1179,7 @@
 <correctAnswer>?:</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02020039</questionID>
+<questionID>TNHSCCS02020039</questionID>
 <question-text>Identify the logical AND operator given below.</question-text>
 <answer0>&amp;</answer0>
 <answer1>&amp;&amp;</answer1>
@@ -1190,7 +1190,7 @@
 <correctAnswer>&amp;&amp;</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02020004</questionID>
+<questionID>TNHSCCS02020004</questionID>
 <question-text>The name C + + was coined by ...........</question-text>
 <answer0>Bjarne Stroustrup</answer0>
 <answer1>Rick Mascitti</answer1>
@@ -1201,7 +1201,7 @@
 <correctAnswer>Rick Mascitti</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02020040</questionID>
+<questionID>TNHSCCS02020040</questionID>
 <question-text>operators are used to perform mathematical operations.</question-text>
 <answer0>Relational</answer0>
 <answer1>Arithmetic</answer1>
@@ -1212,7 +1212,7 @@
 <correctAnswer>Arithmetic</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02020041</questionID>
+<questionID>TNHSCCS02020041</questionID>
 <question-text>a/=5 is equal to ...........</question-text>
 <answer0>a = a\b</answer0>
 <answer1>a = a/b</answer1>
@@ -1220,11 +1220,11 @@
 <answer3>a = a*b</answer3>
 <grouping>01</grouping>
 <weightage>8</weightage>
-<feedback> TNHSCS02020041 => question wrong</feedback>
+<feedback> TNHSCCS02020041 => question wrong</feedback>
 <correctAnswer>a = a/b</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02020042</questionID>
+<questionID>TNHSCCS02020042</questionID>
 <question-text>Identify the post increment operation given below.</question-text>
 <answer0>a+ +</answer0>
 <answer1>+ + a</answer1>
@@ -1235,7 +1235,7 @@
 <correctAnswer>+ + a</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02020043</questionID>
+<questionID>TNHSCCS02020043</questionID>
 <question-text>Identify the pre increment operation given below.</question-text>
 <answer0>a++ %</answer0>
 <answer1>++a</answer1>
@@ -1246,7 +1246,7 @@
 <correctAnswer>++a</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02020044</questionID>
+<questionID>TNHSCCS02020044</questionID>
 <question-text>Identify the pre decrement operation given below.</question-text>
 <answer0>-a</answer0>
 <answer1>a-</answer1>
@@ -1254,11 +1254,11 @@
 <answer3>none of these</answer3>
 <grouping>01</grouping>
 <weightage>8</weightage>
-<feedback> TNHSCS02020044 => answer choices missing one - sign</feedback>
+<feedback> TNHSCCS02020044 => answer choices missing one - sign</feedback>
 <correctAnswer>-a</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02020045</questionID>
+<questionID>TNHSCCS02020045</questionID>
 <question-text>........... are executed in the order of precedence.</question-text>
 <answer0>Operand</answer0>
 <answer1>Operators</answer1>
@@ -1269,7 +1269,7 @@
 <correctAnswer>Operators</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02020046</questionID>
+<questionID>TNHSCCS02020046</questionID>
 <question-text>The operands and operators are grouped in a specific logical way for evaluation is called as...........</question-text>
 <answer0>operators</answer0>
 <answer1>operands</answer1>
@@ -1280,7 +1280,7 @@
 <correctAnswer>association</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02020047</questionID>
+<questionID>TNHSCCS02020047</questionID>
 <question-text>5 + 6/3 gives the result as ...........</question-text>
 <answer0>3.6</answer0>
 <answer1>7</answer1>
@@ -1291,7 +1291,7 @@
 <correctAnswer>7</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02020048</questionID>
+<questionID>TNHSCCS02020048</questionID>
 <question-text>if a=5, what will be the result of c when c=a+ + .</question-text>
 <answer0>5</answer0>
 <answer1>6</answer1>
@@ -1302,7 +1302,7 @@
 <correctAnswer>5</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02020049</questionID>
+<questionID>TNHSCCS02020049</questionID>
 <question-text>If a =5, what will be the result of c when c = + + a;</question-text>
 <answer0>5</answer0>
 <answer1>6</answer1>
@@ -1313,7 +1313,7 @@
 <correctAnswer>6</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02020005</questionID>
+<questionID>TNHSCCS02020005</questionID>
 <question-text>The basic types are collectively called as .....</question-text>
 <answer0>keywords</answer0>
 <answer1>operators</answer1>
@@ -1324,7 +1324,7 @@
 <correctAnswer>tokens</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02020050</questionID>
+<questionID>TNHSCCS02020050</questionID>
 <question-text>..... operators are used to compare values.</question-text>
 <answer0>Arithmetic</answer0>
 <answer1>Logical</answer1>
@@ -1335,7 +1335,7 @@
 <correctAnswer>Relational</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02020051</questionID>
+<questionID>TNHSCCS02020051</questionID>
 <question-text>In a relational operation, the numeric constant represents false value.</question-text>
 <answer0>0 &apos;</answer0>
 <answer1>1</answer1>
@@ -1346,7 +1346,7 @@
 <correctAnswer>0 &apos;</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02020052</questionID>
+<questionID>TNHSCCS02020052</questionID>
 <question-text>In relational operation , if c= &apos;a&apos;^	&apos;A&apos; gives the result as</question-text>
 <answer0>0</answer0>
 <answer1>1</answer1>
@@ -1357,7 +1357,7 @@
 <correctAnswer>0</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02020053</questionID>
+<questionID>TNHSCCS02020053</questionID>
 <question-text>........... operators combines the results of one or more</question-text>
 <answer0>Relational</answer0>
 <answer1>Arithmetic</answer1>
@@ -1368,7 +1368,7 @@
 <correctAnswer>Logical</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02020054</questionID>
+<questionID>TNHSCCS02020054</questionID>
 <question-text>In logical operation , if resultl = (c= =d) &amp;&amp; (choice !=term). What will be the output if c = 5, d = 6, choice = &apos;y&apos; and term &apos;-2&apos;.</question-text>
 <answer0>0</answer0>
 <answer1>1</answer1>
@@ -1379,7 +1379,7 @@
 <correctAnswer>0</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02020055</questionID>
+<questionID>TNHSCCS02020055</questionID>
 <question-text>...........have the lower precedence in the following list.</question-text>
 <answer0>Relational</answer0>
 <answer1>Arithmetic</answer1>
@@ -1390,7 +1390,7 @@
 <correctAnswer>Arithmetic</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02020056</questionID>
+<questionID>TNHSCCS02020056</questionID>
 <question-text>Can you write out what will be the value stored in x of the following snippet?</question-text>
 <answer0>100</answer0>
 <answer1>20</answer1>
@@ -1401,7 +1401,7 @@
 <correctAnswer>0</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02020057</questionID>
+<questionID>TNHSCCS02020057</questionID>
 <question-text>Which one of the operator has the higher precedence?</question-text>
 <answer0>unary mathematical</answer0>
 <answer1>binary mathematical</answer1>
@@ -1412,7 +1412,7 @@
 <correctAnswer>unary mathematical</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02020058</questionID>
+<questionID>TNHSCCS02020058</questionID>
 <question-text>........... terminates the C+ + statement.</question-text>
 <answer0>;</answer0>
 <answer1>//</answer1>
@@ -1423,7 +1423,7 @@
 <correctAnswer>;</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02020059</questionID>
+<questionID>TNHSCCS02020059</questionID>
 <question-text>Identify the comment punctuators.</question-text>
 <answer0>//</answer0>
 <answer1>/**/</answer1>
@@ -1434,7 +1434,7 @@
 <correctAnswer>both a and b</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02020006</questionID>
+<questionID>TNHSCCS02020006</questionID>
 <question-text>Identify the tokens given below.</question-text>
 <answer0>keywords</answer0>
 <answer1>identifiers</answer1>
@@ -1445,7 +1445,7 @@
 <correctAnswer>all of these</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02020060</questionID>
+<questionID>TNHSCCS02020060</questionID>
 <question-text>The data types can be classified into...........</question-text>
 <answer0>user defined</answer0>
 <answer1>built-in type</answer1>
@@ -1456,7 +1456,7 @@
 <correctAnswer>all of these</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02020061</questionID>
+<questionID>TNHSCCS02020061</questionID>
 <question-text>........... data type helps in improving readability of the</question-text>
 <answer0>User defined</answer0>
 <answer1>Built-in</answer1>
@@ -1467,7 +1467,7 @@
 <correctAnswer>User defined</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02020062</questionID>
+<questionID>TNHSCCS02020062</questionID>
 <question-text>...........keyword can. be used to define an existing data</question-text>
 <answer0>Typedef</answer0>
 <answer1>Int</answer1>
@@ -1478,7 +1478,7 @@
 <correctAnswer>Typedef</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02020063</questionID>
+<questionID>TNHSCCS02020063</questionID>
 <question-text>...........also called as symbolic numeric constants of the</question-text>
 <answer0>Enum</answer0>
 <answer1>Typedef .</answer1>
@@ -1489,7 +1489,7 @@
 <correctAnswer>Enum</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02020064</questionID>
+<questionID>TNHSCCS02020064</questionID>
 <question-text>Identify the user defined data type.</question-text>
 <answer0>enum</answer0>
 <answer1>typedef</answer1>
@@ -1500,7 +1500,7 @@
 <correctAnswer>both a and b</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02020065</questionID>
+<questionID>TNHSCCS02020065</questionID>
 <question-text>...........types of storage classes in C++.</question-text>
 <answer0>One</answer0>
 <answer1>Two</answer1>
@@ -1511,7 +1511,7 @@
 <correctAnswer>Four</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02020066</questionID>
+<questionID>TNHSCCS02020066</questionID>
 <question-text>Identify the storage class in the given list.</question-text>
 <answer0>static</answer0>
 <answer1>int</answer1>
@@ -1522,7 +1522,7 @@
 <correctAnswer>static</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02020067</questionID>
+<questionID>TNHSCCS02020067</questionID>
 <question-text>........... variables are automatically initialized to zero</question-text>
 <answer0>Static</answer0>
 <answer1>Register</answer1>
@@ -1533,7 +1533,7 @@
 <correctAnswer>Static</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02020068</questionID>
+<questionID>TNHSCCS02020068</questionID>
 <question-text>........... defines local variable known to the block in</question-text>
 <answer0>Auto</answer0>
 <answer1>Static</answer1>
@@ -1544,7 +1544,7 @@
 <correctAnswer>Auto</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02020069</questionID>
+<questionID>TNHSCCS02020069</questionID>
 <question-text>...........variable retains the last assigned value.</question-text>
 <answer0>Auto</answer0>
 <answer1>Static</answer1>
@@ -1555,7 +1555,7 @@
 <correctAnswer>Static</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02020007</questionID>
+<questionID>TNHSCCS02020007</questionID>
 <question-text>........... have special;meaning*!.:the language compiler.</question-text>
 <answer0>Identifiers</answer0>
 <answer1>Constants</answer1>
@@ -1566,7 +1566,7 @@
 <correctAnswer>Keywords</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02020070</questionID>
+<questionID>TNHSCCS02020070</questionID>
 <question-text>........... variable known to all functions in the current</question-text>
 <answer0>Extern</answer0>
 <answer1>Static</answer1>
@@ -1577,7 +1577,7 @@
 <correctAnswer>Extern</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02020071</questionID>
+<questionID>TNHSCCS02020071</questionID>
 <question-text>are also called as fundamental or basic data types.</question-text>
 <answer0>Built-in data types</answer0>
 <answer1>User defined data types</answer1>
@@ -1588,7 +1588,7 @@
 <correctAnswer>Built-in data types</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02020072</questionID>
+<questionID>TNHSCCS02020072</questionID>
 <question-text>........... is a character data type that can hold both the</question-text>
 <answer0>Char</answer0>
 <answer1>Enum</answer1>
@@ -1599,7 +1599,7 @@
 <correctAnswer>Char</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02020073</questionID>
+<questionID>TNHSCCS02020073</questionID>
 <question-text>........... can store value with fractional part.</question-text>
 <answer0>Float</answer0>
 <answer1>Int</answer1>
@@ -1610,7 +1610,7 @@
 <correctAnswer>Float</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02020074</questionID>
+<questionID>TNHSCCS02020074</questionID>
 <question-text>........... type indicate the function does not return.</question-text>
 <answer0>Int</answer0>
 <answer1>Char</answer1>
@@ -1621,7 +1621,7 @@
 <correctAnswer>Void</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02020075</questionID>
+<questionID>TNHSCCS02020075</questionID>
 <question-text>........... to declare generic pointer.</question-text>
 <answer0>Char</answer0>
 <answer1>Int</answer1>
@@ -1632,7 +1632,7 @@
 <correctAnswer>Void</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02020076</questionID>
+<questionID>TNHSCCS02020076</questionID>
 <question-text>........... are the modifiers.</question-text>
 <answer0>Signed</answer0>
 <answer1>Unsigned</answer1>
@@ -1643,7 +1643,7 @@
 <correctAnswer>All of these</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02020077</questionID>
+<questionID>TNHSCCS02020077</questionID>
 <question-text>.......... are built from&apos;the basic&apos;iffteger and floating type</question-text>
 <answer0>Array</answer0>
 <answer1>Pointer</answer1>
@@ -1654,7 +1654,7 @@
 <correctAnswer>Both a and b</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02020078</questionID>
+<questionID>TNHSCCS02020078</questionID>
 <question-text>int num[5] stores ........... values.</question-text>
 <answer0>3</answer0>
 <answer1>4</answer1>
@@ -1665,7 +1665,7 @@
 <correctAnswer>5</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02020079</questionID>
+<questionID>TNHSCCS02020079</questionID>
 <question-text>The range value of char data type is ...........</question-text>
 <answer0>-128 to 127</answer0>
 <answer1>0 to 255</answer1>
@@ -1676,7 +1676,7 @@
 <correctAnswer>-128 to 127</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02020008</questionID>
+<questionID>TNHSCCS02020008</questionID>
 <question-text>...........cannot be used as normal identifiers.</question-text>
 <answer0>identifiers</answer0>
 <answer1>Constants</answer1>
@@ -1687,7 +1687,7 @@
 <correctAnswer>Keywords</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02020080</questionID>
+<questionID>TNHSCCS02020080</questionID>
 <question-text>The range value of unsigned char data type is ...........</question-text>
 <answer0>-128 to 127</answer0>
 <answer1>0 to 255</answer1>
@@ -1698,7 +1698,7 @@
 <correctAnswer>0 to 255</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02020081</questionID>
+<questionID>TNHSCCS02020081</questionID>
 <question-text>The range value of int data type is ...........</question-text>
 <answer0>-128 to 127</answer0>
 <answer1>0 to 255</answer1>
@@ -1709,7 +1709,7 @@
 <correctAnswer>-32768 to 32767</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02020082</questionID>
+<questionID>TNHSCCS02020082</questionID>
 <question-text>The range value of unsigned int and unsigned short int data type is ...........</question-text>
 <answer0>-128 to 127</answer0>
 <answer1>0 to 255</answer1>
@@ -1720,7 +1720,7 @@
 <correctAnswer>0 to 65535</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02020083</questionID>
+<questionID>TNHSCCS02020083</questionID>
 <question-text>........... data types occupies 4 bytes of memory.</question-text>
 <answer0>Long int</answer0>
 <answer1>Signed long int</answer1>
@@ -1731,7 +1731,7 @@
 <correctAnswer>All of these</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02020084</questionID>
+<questionID>TNHSCCS02020084</questionID>
 <question-text>........... data types occupies 2 bytes of memory.</question-text>
 <answer0>Unsigned int</answer0>
 <answer1>Signed int</answer1>
@@ -1742,7 +1742,7 @@
 <correctAnswer>Unsigned int</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02020085</questionID>
+<questionID>TNHSCCS02020085</questionID>
 <question-text>........... data types occupies 1 byte of memory.</question-text>
 <answer0>Char</answer0>
 <answer1>Unsigned char</answer1>
@@ -1753,7 +1753,7 @@
 <correctAnswer>All of these</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02020086</questionID>
+<questionID>TNHSCCS02020086</questionID>
 <question-text>........... type occupies 8 bytes in a memory.</question-text>
 <answer0>Double</answer0>
 <answer1>Long double</answer1>
@@ -1764,7 +1764,7 @@
 <correctAnswer>Double</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02020087</questionID>
+<questionID>TNHSCCS02020087</questionID>
 <question-text>......... type occupies 10 bytes in a memory.</question-text>
 <answer0>Long double</answer0>
 <answer1>Double</answer1>
@@ -1775,7 +1775,7 @@
 <correctAnswer>Long double</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02020088</questionID>
+<questionID>TNHSCCS02020088</questionID>
 <question-text>........... is a variable that holds a memory address.</question-text>
 <answer0>Int</answer0>
 <answer1>Pointer</answer1>
@@ -1786,7 +1786,7 @@
 <correctAnswer>Pointer</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02020089</questionID>
+<questionID>TNHSCCS02020089</questionID>
 <question-text>Identify the address of operator while dealing pointer data type. .</question-text>
 <answer0>&amp;</answer0>
 <answer1>*</answer1>
@@ -1797,7 +1797,7 @@
 <correctAnswer>&amp;</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02020009</questionID>
+<questionID>TNHSCCS02020009</questionID>
 <question-text>Identifiers are also called as .......</question-text>
 <answer0>constant</answer0>
 <answer1>variable</answer1>
@@ -1808,7 +1808,7 @@
 <correctAnswer>variable</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02020090</questionID>
+<questionID>TNHSCCS02020090</questionID>
 <question-text>Identify the value at operator while dealing pointer data</question-text>
 <answer0>&amp;</answer0>
 <answer1>*</answer1>
@@ -1819,7 +1819,7 @@
 <correctAnswer>*</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02020091</questionID>
+<questionID>TNHSCCS02020091</questionID>
 <question-text>........... allocates memory, based on the data type of</question-text>
 <answer0>Compiler</answer0>
 <answer1>Program</answer1>
@@ -1830,7 +1830,7 @@
 <correctAnswer>Compiler</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02020092</questionID>
+<questionID>TNHSCCS02020092</questionID>
 <question-text>Declaring more than one variable in a single statement.</question-text>
 <answer0>:</answer0>
 <answer1>,</answer1>
@@ -1841,7 +1841,7 @@
 <correctAnswer>,</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02020093</questionID>
+<questionID>TNHSCCS02020093</questionID>
 <question-text>There are ........... key words in data types.</question-text>
 <answer0>7</answer0>
 <answer1>8</answer1>
@@ -1852,7 +1852,7 @@
 <correctAnswer>9</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02020094</questionID>
+<questionID>TNHSCCS02020094</questionID>
 <question-text>...... values are stored in 16 bit format in binary</question-text>
 <answer0>Integer</answer0>
 <answer1>Float</answer1>
@@ -1863,7 +1863,7 @@
 <correctAnswer>Integer</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02020095</questionID>
+<questionID>TNHSCCS02020095</questionID>
 <question-text>...... bit, also called as the most significant bit or sign</question-text>
 <answer0>14th</answer0>
 <answer1>15th</answer1>
@@ -1874,7 +1874,7 @@
 <correctAnswer>16th</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02020096</questionID>
+<questionID>TNHSCCS02020096</questionID>
 <question-text>The alters the base data type to yield new data type.</question-text>
 <answer0>modifier</answer0>
 <answer1>float</answer1>
@@ -1885,7 +1885,7 @@
 <correctAnswer>modifier</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02020097</questionID>
+<questionID>TNHSCCS02020097</questionID>
 <question-text>The...........qualifier specifies that the value of a variable</question-text>
 <answer0>register</answer0>
 <answer1>const</answer1>
@@ -1896,7 +1896,7 @@
 <correctAnswer>const</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02020098</questionID>
+<questionID>TNHSCCS02020098</questionID>
 <question-text>...... refers to data type changes brought about in</question-text>
 <answer0>Implicit</answer0>
 <answer1>Explicit</answer1>
@@ -1907,7 +1907,7 @@
 <correctAnswer>Implicit</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02020099</questionID>
+<questionID>TNHSCCS02020099</questionID>
 <question-text>........ is an operator , it returns the size in terms of</question-text>
 <answer0>New</answer0>
 <answer1>Sizeof</answer1>
@@ -1920,7 +1920,7 @@
 </chapter>
 <chapter name="BASIC STATEMENTS" number="03">
 <question>
-<questionID>TNHSCS02030001</questionID>
+<questionID>TNHSCCS02030001</questionID>
 <question-text>..........is another method to assign a data to a variable.</question-text>
 <answer0>Cout</answer0>
 <answer1>Cin</answer1>
@@ -1931,7 +1931,7 @@
 <weightage>8</weightage>
 </question>
 <question>
-<questionID>TNHSCS02030010</questionID>
+<questionID>TNHSCCS02030010</questionID>
 <question-text>........... statement introduces a variable name and</question-text>
 <answer0>Declaration</answer0>
 <answer1>Preprocessor</answer1>
@@ -1942,7 +1942,7 @@
 <weightage>8</weightage>
 </question>
 <question>
-<questionID>TNHSCS02030011</questionID>
+<questionID>TNHSCCS02030011</questionID>
 <question-text>Pointer variables get defined by using ...... memory</question-text>
 <answer0>dpt</answer0>
 <answer1>new</answer1>
@@ -1953,7 +1953,7 @@
 <weightage>8</weightage>
 </question>
 <question>
-<questionID>TNHSCS02030012</questionID>
+<questionID>TNHSCCS02030012</questionID>
 <question-text>Program statement that cause a jump of control from</question-text>
 <answer0>control structures</answer0>
 <answer1>declaration</answer1>
@@ -1964,7 +1964,7 @@
 <weightage>8</weightage>
 </question>
 <question>
-<questionID>TNHSCS02030013</questionID>
+<questionID>TNHSCCS02030013</questionID>
 <question-text>........... statement which chooses between two</question-text>
 <answer0>If</answer0>
 <answer1>If .... else</answer1>
@@ -1975,7 +1975,7 @@
 <weightage>8</weightage>
 </question>
 <question>
-<questionID>TNHSCS02030014</questionID>
+<questionID>TNHSCCS02030014</questionID>
 <question-text>........... creates branches for multiple alternatives</question-text>
 <answer0>If</answer0>
 <answer1>If....else</answer1>
@@ -1986,7 +1986,7 @@
 <weightage>8</weightage>
 </question>
 <question>
-<questionID>TNHSCS02030015</questionID>
+<questionID>TNHSCCS02030015</questionID>
 <question-text>Else block is executed only if ........... block is not</question-text>
 <answer0>false</answer0>
 <answer1>true</answer1>
@@ -1997,7 +1997,7 @@
 <weightage>8</weightage>
 </question>
 <question>
-<questionID>TNHSCS02030016</questionID>
+<questionID>TNHSCCS02030016</questionID>
 <question-text>........... statement sequence of if or else may contain</question-text>
 <answer0>Looping</answer0>
 <answer1>Nested if</answer1>
@@ -2008,7 +2008,7 @@
 <weightage>8</weightage>
 </question>
 <question>
-<questionID>TNHSCS02030017</questionID>
+<questionID>TNHSCCS02030017</questionID>
 <question-text>........ statement is must, for every block of the case</question-text>
 <answer0>Default</answer0>
 <answer1>Break</answer1>
@@ -2019,7 +2019,7 @@
 <weightage>8</weightage>
 </question>
 <question>
-<questionID>TNHSCS02030018</questionID>
+<questionID>TNHSCCS02030018</questionID>
 <question-text>........... execute a set of instructions repeatedly for a</question-text>
 <answer0>Control statement</answer0>
 <answer1>Looping statement</answer1>
@@ -2030,7 +2030,7 @@
 <weightage>8</weightage>
 </question>
 <question>
-<questionID>TNHSCS02030019</questionID>
+<questionID>TNHSCCS02030019</questionID>
 <question-text>A looping block consists of .......... segments.</question-text>
 <answer0>one</answer0>
 <answer1>two</answer1>
@@ -2041,7 +2041,7 @@
 <weightage>8</weightage>
 </question>
 <question>
-<questionID>TNHSCS02030002</questionID>
+<questionID>TNHSCCS02030002</questionID>
 <question-text>Input stream represents the flow of data from the</question-text>
 <answer0>monitor</answer0>
 <answer1>keyboard</answer1>
@@ -2052,7 +2052,7 @@
 <weightage>8</weightage>
 </question>
 <question>
-<questionID>TNHSCS02030020</questionID>
+<questionID>TNHSCCS02030020</questionID>
 <question-text>Loops are unconditionally executed atleast once, if the</question-text>
 <answer0>end</answer0>
 <answer1>beginning</answer1>
@@ -2063,7 +2063,7 @@
 <weightage>8</weightage>
 </question>
 <question>
-<questionID>TNHSCS02030021</questionID>
+<questionID>TNHSCCS02030021</questionID>
 <question-text>Based on the position of the condition, the loops are</question-text>
 <answer0>entry check</answer0>
 <answer1>exit check</answer1>
@@ -2074,7 +2074,7 @@
 <weightage>8</weightage>
 </question>
 <question>
-<questionID>TNHSCS02030022</questionID>
+<questionID>TNHSCCS02030022</questionID>
 <question-text>Which one is the entry check loop? a) do.... while b) while</question-text>
 <answer0>do.... while</answer0>
 <answer1>do.... while b)  while</answer1>
@@ -2085,7 +2085,7 @@
 <weightage>8</weightage>
 </question>
 <question>
-<questionID>TNHSCS02030023</questionID>
+<questionID>TNHSCCS02030023</questionID>
 <question-text>Which one is exit check loop?</question-text>
 <answer0>do... while</answer0>
 <answer1>while</answer1>
@@ -2096,7 +2096,7 @@
 <weightage>8</weightage>
 </question>
 <question>
-<questionID>TNHSCS02030024</questionID>
+<questionID>TNHSCCS02030024</questionID>
 <question-text>Void main()</question-text>
 <answer0>ctr</answer0>
 <answer1>i</answer1>
@@ -2107,7 +2107,7 @@
 <weightage>8</weightage>
 </question>
 <question>
-<questionID>TNHSCS02030025</questionID>
+<questionID>TNHSCCS02030025</questionID>
 <question-text>How many times will the loop be executed in the above</question-text>
 <answer0>entry-check</answer0>
 <answer1>exit-check</answer1>
@@ -2118,7 +2118,7 @@
 <weightage>8</weightage>
 </question>
 <question>
-<questionID>TNHSCS02030026</questionID>
+<questionID>TNHSCCS02030026</questionID>
 <question-text>What is the output of the program in the above program segment?</question-text>
 <answer0>entry-check</answer0>
 <answer1>exit-check</answer1>
@@ -2129,7 +2129,7 @@
 <weightage>8</weightage>
 </question>
 <question>
-<questionID>TNHSCS02030027</questionID>
+<questionID>TNHSCCS02030027</questionID>
 <question-text>What type of loop is this in the above program segment?</question-text>
 <answer0>entry-check</answer0>
 <answer1>exit-check</answer1>
@@ -2140,7 +2140,7 @@
 <weightage>8</weightage>
 </question>
 <question>
-<questionID>TNHSCS02030028</questionID>
+<questionID>TNHSCCS02030028</questionID>
 <question-text>Identify the entry control loop?</question-text>
 <answer0>for loop</answer0>
 <answer1>do...while</answer1>
@@ -2151,7 +2151,7 @@
 <weightage>8</weightage>
 </question>
 <question>
-<questionID>TNHSCS02030029</questionID>
+<questionID>TNHSCCS02030029</questionID>
 <question-text>Initialisation is executed ..........., when the loop is</question-text>
 <answer0>only once</answer0>
 <answer1>twice</answer1>
@@ -2162,7 +2162,7 @@
 <weightage>8</weightage>
 </question>
 <question>
-<questionID>TNHSCS02030003</questionID>
+<questionID>TNHSCCS02030003</questionID>
 <question-text>The declarations for the object cin are available in a header file called as ...........</question-text>
 <answer0>istream.h</answer0>
 <answer1>ostream.h</answer1>
@@ -2173,7 +2173,7 @@
 <weightage>8</weightage>
 </question>
 <question>
-<questionID>TNHSCS02030030</questionID>
+<questionID>TNHSCCS02030030</questionID>
 <question-text>Test condition is evaluated ........... the commencement</question-text>
 <answer0>after</answer0>
 <answer1>before</answer1>
@@ -2184,7 +2184,7 @@
 <weightage>8</weightage>
 </question>
 <question>
-<questionID>TNHSCS02030031</questionID>
+<questionID>TNHSCCS02030031</questionID>
 <question-text>Increment segment is executed ........... the</question-text>
 <answer0>after</answer0>
 <answer1>before</answer1>
@@ -2195,7 +2195,7 @@
 <weightage>8</weightage>
 </question>
 <question>
-<questionID>TNHSCS02030032</questionID>
+<questionID>TNHSCCS02030032</questionID>
 <question-text>The statement forces the next interaction of the</question-text>
 <answer0>break</answer0>
 <answer1>continue</answer1>
@@ -2206,7 +2206,7 @@
 <weightage>8</weightage>
 </question>
 <question>
-<questionID>TNHSCS02030033</questionID>
+<questionID>TNHSCCS02030033</questionID>
 <question-text>............. statement would exit the current loop only.</question-text>
 <answer0>Continue</answer0>
 <answer1>Break</answer1>
@@ -2217,7 +2217,7 @@
 <weightage>8</weightage>
 </question>
 <question>
-<questionID>TNHSCS02030034</questionID>
+<questionID>TNHSCCS02030034</questionID>
 <question-text>An outer loop and inner loop cannot have the same ..........., as it will lead to logical errors.</question-text>
 <answer0>condition</answer0>
 <answer1>assignment</answer1>
@@ -2228,7 +2228,7 @@
 <weightage>8</weightage>
 </question>
 <question>
-<questionID>TNHSCS02030035</questionID>
+<questionID>TNHSCCS02030035</questionID>
 <question-text>......... are written in high level language using the</question-text>
 <answer0>Algorithm</answer0>
 <answer1>Flowchart</answer1>
@@ -2239,7 +2239,7 @@
 <weightage>8</weightage>
 </question>
 <question>
-<questionID>TNHSCS02030036</questionID>
+<questionID>TNHSCCS02030036</questionID>
 <question-text>A program written in high level language is called as the</question-text>
 <answer0>object code</answer0>
 <answer1>source code</answer1>
@@ -2250,7 +2250,7 @@
 <weightage>8</weightage>
 </question>
 <question>
-<questionID>TNHSCS02030037</questionID>
+<questionID>TNHSCCS02030037</questionID>
 <question-text>The machine readable form of a program is called as</question-text>
 <answer0>source code</answer0>
 <answer1>machine code</answer1>
@@ -2261,7 +2261,7 @@
 <weightage>8</weightage>
 </question>
 <question>
-<questionID>TNHSCS02030038</questionID>
+<questionID>TNHSCCS02030038</questionID>
 <question-text>The ........... file is linked with the essential libraries to</question-text>
 <answer0>source</answer0>
 <answer1>object</answer1>
@@ -2272,7 +2272,7 @@
 <weightage>8</weightage>
 </question>
 <question>
-<questionID>TNHSCS02030039</questionID>
+<questionID>TNHSCCS02030039</questionID>
 <question-text>...... create object files from source code.</question-text>
 <answer0>Program</answer0>
 <answer1>Compiler</answer1>
@@ -2283,7 +2283,7 @@
 <weightage>8</weightage>
 </question>
 <question>
-<questionID>TNHSCS02030004</questionID>
+<questionID>TNHSCCS02030004</questionID>
 <question-text>........... file comprises the combined properties of</question-text>
 <answer0>Istream.h</answer0>
 <answer1>Ostream.h</answer1>
@@ -2294,7 +2294,7 @@
 <weightage>8</weightage>
 </question>
 <question>
-<questionID>TNHSCS02030005</questionID>
+<questionID>TNHSCCS02030005</questionID>
 <question-text>A preprocessor directive starts with ...........</question-text>
 <answer0>#</answer0>
 <answer1>$</answer1>
@@ -2305,7 +2305,7 @@
 <weightage>8</weightage>
 </question>
 <question>
-<questionID>TNHSCS02030006</questionID>
+<questionID>TNHSCCS02030006</questionID>
 <question-text>The</question-text>
 <answer0>&gt; &gt;</answer0>
 <answer1>&lt; &lt;</answer1>
@@ -2316,7 +2316,7 @@
 <weightage>8</weightage>
 </question>
 <question>
-<questionID>TNHSCS02030007</questionID>
+<questionID>TNHSCCS02030007</questionID>
 <question-text>The standard output stream normally flows to the</question-text>
 <answer0>keyboard /</answer0>
 <answer1>screen</answer1>
@@ -2327,7 +2327,7 @@
 <weightage>8</weightage>
 </question>
 <question>
-<questionID>TNHSCS02030008</questionID>
+<questionID>TNHSCCS02030008</questionID>
 <question-text>........... is called the insertion operator or put to</question-text>
 <answer0>&gt;&gt;</answer0>
 <answer1>&lt;&lt;</answer1>
@@ -2338,7 +2338,7 @@
 <weightage>8</weightage>
 </question>
 <question>
-<questionID>TNHSCS02030009</questionID>
+<questionID>TNHSCCS02030009</questionID>
 <question-text>A C++ program has primarily ........... sections.</question-text>
 <answer0>one</answer0>
 <answer1>two</answer1>
@@ -2351,7 +2351,7 @@
 </chapter>
 <chapter name="FUNCTIONS" number="04">
 <question>
-<questionID>TNHSCS02040001</questionID>
+<questionID>TNHSCCS02040001</questionID>
 <question-text>............ are building blocks of C++ programs.</question-text>
 <answer0>Function</answer0>
 <answer1>Library</answer1>
@@ -2362,7 +2362,7 @@
 <weightage>8</weightage>
 </question>
 <question>
-<questionID>TNHSCS02040010</questionID>
+<questionID>TNHSCCS02040010</questionID>
 <question-text>The function name may include a set of actual parameters, enclosed in ...........</question-text>
 <answer0>[]</answer0>
 <answer1>{}</answer1>
@@ -2373,7 +2373,7 @@
 <weightage>8</weightage>
 </question>
 <question>
-<questionID>TNHSCS02040011</questionID>
+<questionID>TNHSCCS02040011</questionID>
 <question-text>...........are the channels through which data flows from</question-text>
 <answer0>Variable</answer0>
 <answer1>Constant</answer1>
@@ -2384,7 +2384,7 @@
 <weightage>8</weightage>
 </question>
 <question>
-<questionID>TNHSCS02040012</questionID>
+<questionID>TNHSCCS02040012</questionID>
 <question-text>When arguments are passed by value, the called function</question-text>
 <answer0>old</answer0>
 <answer1>new</answer1>
@@ -2395,7 +2395,7 @@
 <weightage>8</weightage>
 </question>
 <question>
-<questionID>TNHSCS02040013</questionID>
+<questionID>TNHSCCS02040013</questionID>
 <question-text>In ........... method, any change in the formal parameter</question-text>
 <answer0>call by value .</answer0>
 <answer1>call by reference -</answer1>
@@ -2406,7 +2406,7 @@
 <weightage>8</weightage>
 </question>
 <question>
-<questionID>TNHSCS02040014</questionID>
+<questionID>TNHSCCS02040014</questionID>
 <question-text>In ........... method, any change made in the formal</question-text>
 <answer0>call by value</answer0>
 <answer1>call by reference</answer1>
@@ -2417,7 +2417,7 @@
 <weightage>8</weightage>
 </question>
 <question>
-<questionID>TNHSCS02040015</questionID>
+<questionID>TNHSCCS02040015</questionID>
 <question-text>The actual parameters can be passed in the form of ........... to the formal parameters which are of value</question-text>
 <answer0>constants</answer0>
 <answer1>variables</answer1>
@@ -2428,7 +2428,7 @@
 <weightage>8</weightage>
 </question>
 <question>
-<questionID>TNHSCS02040016</questionID>
+<questionID>TNHSCCS02040016</questionID>
 <question-text>The actual parameters can be passed only as to</question-text>
 <answer0>constants</answer0>
 <answer1>variables</answer1>
@@ -2439,7 +2439,7 @@
 <weightage>8</weightage>
 </question>
 <question>
-<questionID>TNHSCS02040017</questionID>
+<questionID>TNHSCCS02040017</questionID>
 <question-text>The default values can be included in the function prototype from ...........</question-text>
 <answer0>left to right</answer0>
 <answer1>right to left</answer1>
@@ -2450,7 +2450,7 @@
 <weightage>8</weightage>
 </question>
 <question>
-<questionID>TNHSCS02040018</questionID>
+<questionID>TNHSCCS02040018</questionID>
 <question-text>The actual parameters are matched with formal</question-text>
 <answer0>many to one</answer0>
 <answer1>one to many</answer1>
@@ -2461,7 +2461,7 @@
 <weightage>8</weightage>
 </question>
 <question>
-<questionID>TNHSCS02040019</questionID>
+<questionID>TNHSCCS02040019</questionID>
 <question-text>The function that return no value is declared as...........</question-text>
 <answer0>int</answer0>
 <answer1>float</answer1>
@@ -2472,7 +2472,7 @@
 <weightage>8</weightage>
 </question>
 <question>
-<questionID>TNHSCS02040002</questionID>
+<questionID>TNHSCCS02040002</questionID>
 <question-text>...........reduce the size of the program.</question-text>
 <answer0>Function</answer0>
 <answer1>Library</answer1>
@@ -2483,7 +2483,7 @@
 <weightage>8</weightage>
 </question>
 <question>
-<questionID>TNHSCS02040020</questionID>
+<questionID>TNHSCCS02040020</questionID>
 <question-text>The data type of a function is treated as ............ if no</question-text>
 <answer0>float</answer0>
 <answer1>int</answer1>
@@ -2494,7 +2494,7 @@
 <weightage>8</weightage>
 </question>
 <question>
-<questionID>TNHSCS02040021</questionID>
+<questionID>TNHSCCS02040021</questionID>
 <question-text>An ........... looks like a normal function in the source</question-text>
 <answer0>inline</answer0>
 <answer1>main</answer1>
@@ -2505,7 +2505,7 @@
 <weightage>8</weightage>
 </question>
 <question>
-<questionID>TNHSCS02040022</questionID>
+<questionID>TNHSCCS02040022</questionID>
 <question-text>........... functions execute faster but require more</question-text>
 <answer0>Inline</answer0>
 <answer1>Main</answer1>
@@ -2516,7 +2516,7 @@
 <weightage>8</weightage>
 </question>
 <question>
-<questionID>TNHSCS02040023</questionID>
+<questionID>TNHSCCS02040023</questionID>
 <question-text>To make a function inline, one has to insert the keyword ........... in the function header.</question-text>
 <answer0>main</answer0>
 <answer1>inline</answer1>
@@ -2527,7 +2527,7 @@
 <weightage>8</weightage>
 </question>
 <question>
-<questionID>TNHSCS02040024</questionID>
+<questionID>TNHSCCS02040024</questionID>
 <question-text>There are ........... types of scopes in C+ + .</question-text>
 <answer0>one</answer0>
 <answer1>two</answer1>
@@ -2538,7 +2538,7 @@
 <weightage>8</weightage>
 </question>
 <question>
-<questionID>TNHSCS02040025</questionID>
+<questionID>TNHSCCS02040025</questionID>
 <question-text>Identify the scopes given below.</question-text>
 <answer0>local</answer0>
 <answer1>function</answer1>
@@ -2549,7 +2549,7 @@
 <weightage>8</weightage>
 </question>
 <question>
-<questionID>TNHSCS02040026</questionID>
+<questionID>TNHSCCS02040026</questionID>
 <question-text>A...........variable cannot be accessed from outside the</question-text>
 <answer0>local</answer0>
 <answer1>function</answer1>
@@ -2560,7 +2560,7 @@
 <weightage>8</weightage>
 </question>
 <question>
-<questionID>TNHSCS02040027</questionID>
+<questionID>TNHSCCS02040027</questionID>
 <question-text>...........scope of variables declared within a function is</question-text>
 <answer0>Local</answer0>
 <answer1>File</answer1>
@@ -2571,7 +2571,7 @@
 <weightage>8</weightage>
 </question>
 <question>
-<questionID>TNHSCS02040028</questionID>
+<questionID>TNHSCCS02040028</questionID>
 <question-text>A variable declared above main and all blocks and functions has the scope of a ...........</question-text>
 <answer0>file</answer0>
 <answer1>function</answer1>
@@ -2582,7 +2582,7 @@
 <weightage>8</weightage>
 </question>
 <question>
-<questionID>TNHSCS02040029</questionID>
+<questionID>TNHSCCS02040029</questionID>
 <question-text>The ........... operator reveals the hidden scope of a</question-text>
 <answer0>.</answer0>
 <answer1>-gt;*</answer1>
@@ -2593,7 +2593,7 @@
 <weightage>8</weightage>
 </question>
 <question>
-<questionID>TNHSCS02040003</questionID>
+<questionID>TNHSCCS02040003</questionID>
 <question-text>...........induce reusability of code.</question-text>
 <answer0>Function</answer0>
 <answer1>Library</answer1>
@@ -2604,7 +2604,7 @@
 <weightage>8</weightage>
 </question>
 <question>
-<questionID>TNHSCS02040004</questionID>
+<questionID>TNHSCCS02040004</questionID>
 <question-text>The starting point for the execution of a program is..........</question-text>
 <answer0>main function</answer0>
 <answer1>sub function</answer1>
@@ -2615,7 +2615,7 @@
 <weightage>8</weightage>
 </question>
 <question>
-<questionID>TNHSCS02040005</questionID>
+<questionID>TNHSCCS02040005</questionID>
 <question-text>A ........... can be shared by other programs by</question-text>
 <answer0>function</answer0>
 <answer1>main</answer1>
@@ -2626,7 +2626,7 @@
 <weightage>8</weightage>
 </question>
 <question>
-<questionID>TNHSCS02040006</questionID>
+<questionID>TNHSCCS02040006</questionID>
 <question-text>Declaration of a function is made through a ...........</question-text>
 <answer0>function prototype</answer0>
 <answer1>function definition</answer1>
@@ -2637,7 +2637,7 @@
 <weightage>8</weightage>
 </question>
 <question>
-<questionID>TNHSCS02040007</questionID>
+<questionID>TNHSCCS02040007</questionID>
 <question-text>In a function declaration, the names of the arguments are dummy variables, therefore they are ...........</question-text>
 <answer0>optional</answer0>
 <answer1>compulsory</answer1>
@@ -2648,7 +2648,7 @@
 <weightage>8</weightage>
 </question>
 <question>
-<questionID>TNHSCS02040008</questionID>
+<questionID>TNHSCCS02040008</questionID>
 <question-text>The ........... in the prototype act as place holders.</question-text>
 <answer0>variable</answer0>
 <answer1>constant</answer1>
@@ -2659,7 +2659,7 @@
 <weightage>8</weightage>
 </question>
 <question>
-<questionID>TNHSCS02040009</questionID>
+<questionID>TNHSCCS02040009</questionID>
 <question-text>A function can be called or invoked from another function by using its ...........</question-text>
 <answer0>variable</answer0>
 <answer1>name</answer1>
@@ -2672,7 +2672,7 @@
 </chapter>
 <chapter name="STRUCTURED DATATYPE-ARRAYS" number="05">
 <question>
-<questionID>TNHSCS02050001</questionID>
+<questionID>TNHSCCS02050001</questionID>
 <question-text>........... in C++ is a derived data type that can hold several values of the same data type</question-text>
 <answer0>Array</answer0>
 <answer1>Structure</answer1>
@@ -2683,7 +2683,7 @@
 <correctAnswer>Array</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02050010</questionID>
+<questionID>TNHSCCS02050010</questionID>
 <question-text>.........are treated as single dimensional array of characters.</question-text>
 <answer0>Strings</answer0>
 <answer1>Character</answer1>
@@ -2694,7 +2694,7 @@
 <correctAnswer>Strings</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02050011</questionID>
+<questionID>TNHSCCS02050011</questionID>
 <question-text>A string should be terminated with a</question-text>
 <answer0>\n</answer0>
 <answer1>\t</answer1>
@@ -2705,7 +2705,7 @@
 <correctAnswer>\0</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02050012</questionID>
+<questionID>TNHSCCS02050012</questionID>
 <question-text>The instance ........., treats white space or carriage returns</question-text>
 <answer0>cin</answer0>
 <answer1>cout</answer1>
@@ -2716,7 +2716,7 @@
 <correctAnswer>cin</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02050013</questionID>
+<questionID>TNHSCCS02050013</questionID>
 <question-text>To treat spaces as part of string literal, then one has to use ............</question-text>
 <answer0>gets</answer0>
 <answer1>cin</answer1>
@@ -2727,7 +2727,7 @@
 <correctAnswer>gets</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02050014</questionID>
+<questionID>TNHSCCS02050014</questionID>
 <question-text>Identify the member functions of stdio.h</question-text>
 <answer0>gets ()</answer0>
 <answer1>getline()</answer1>
@@ -2738,7 +2738,7 @@
 <correctAnswer>gets ()</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02050015</questionID>
+<questionID>TNHSCCS02050015</questionID>
 <question-text>Identify the member functions of istream.h</question-text>
 <answer0>getsQ</answer0>
 <answer1>getline()</answer1>
@@ -2749,7 +2749,7 @@
 <correctAnswer>getline()</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02050016</questionID>
+<questionID>TNHSCCS02050016</questionID>
 <question-text>There are ..... methods to display the contents of string</question-text>
 <answer0>one</answer0>
 <answer1>two</answer1>
@@ -2760,7 +2760,7 @@
 <correctAnswer>two</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02050017</questionID>
+<questionID>TNHSCCS02050017</questionID>
 <question-text>...... .....is a member function of standard output stream.</question-text>
 <answer0>Write()</answer0>
 <answer1>GetlineQ</answer1>
@@ -2771,7 +2771,7 @@
 <correctAnswer>Write()</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02050018</questionID>
+<questionID>TNHSCCS02050018</questionID>
 <question-text>Identify the member functions of string.h</question-text>
 <answer0>strlen()</answer0>
 <answer1>strcpy()</answer1>
@@ -2782,7 +2782,7 @@
 <correctAnswer>all of these</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02050019</questionID>
+<questionID>TNHSCCS02050019</questionID>
 <question-text>...........function returns the number of characters stored</question-text>
 <answer0>Strlen()</answer0>
 <answer1>Strcpy()</answer1>
@@ -2793,7 +2793,7 @@
 <correctAnswer>Strlen()</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02050002</questionID>
+<questionID>TNHSCCS02050002</questionID>
 <question-text>Arrays are of ........... types.</question-text>
 <answer0>one</answer0>
 <answer1>two</answer1>
@@ -2804,7 +2804,7 @@
 <correctAnswer>two</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02050020</questionID>
+<questionID>TNHSCCS02050020</questionID>
 <question-text>............. compares the two given strings.</question-text>
 <answer0>Strlen()</answer0>
 <answer1>StrcpyQ</answer1>
@@ -2815,7 +2815,7 @@
 <correctAnswer>Strcmp()</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02050021</questionID>
+<questionID>TNHSCCS02050021</questionID>
 <question-text>....... copies source string to target string.</question-text>
 <answer0>Strlen()</answer0>
 <answer1>Strcpy()</answer1>
@@ -2826,7 +2826,7 @@
 <correctAnswer>Strcpy()</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02050022</questionID>
+<questionID>TNHSCCS02050022</questionID>
 <question-text>Strlen(&quot;kannan&quot;) returns the result as</question-text>
 <answer0>5</answer0>
 <answer1>7</answer1>
@@ -2837,7 +2837,7 @@
 <correctAnswer>6</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02050023</questionID>
+<questionID>TNHSCCS02050023</questionID>
 <question-text>Strcmp(&quot;abc&quot;,&quot;abc&quot;) returns the result as</question-text>
 <answer0>0</answer0>
 <answer1>+ve</answer1>
@@ -2848,7 +2848,7 @@
 <correctAnswer>0</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02050026</questionID>
+<questionID>TNHSCCS02050026</questionID>
 <question-text>2-D array is stored in sequential manner either row-wise manner or ...........</question-text>
 <answer0>column-wise manner</answer0>
 <answer1>row-wise manner</answer1>
@@ -2859,7 +2859,7 @@
 <correctAnswer>column-wise manner</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02050027</questionID>
+<questionID>TNHSCCS02050027</questionID>
 <question-text>Row-wise manner is called as ...........</question-text>
 <answer0>row-major order</answer0>
 <answer1>column-major order</answer1>
@@ -2870,7 +2870,7 @@
 <correctAnswer>row-major order</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02050028</questionID>
+<questionID>TNHSCCS02050028</questionID>
 <question-text>Column-wise manner is called as ...........</question-text>
 <answer0>column-major order</answer0>
 <answer1>row-major order</answer1>
@@ -2881,7 +2881,7 @@
 <correctAnswer>column-major order</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02050029</questionID>
+<questionID>TNHSCCS02050029</questionID>
 <question-text>Memory allotted for float num_array[5][2] is bytes.</question-text>
 <answer0>40</answer0>
 <answer1>20</answer1>
@@ -2892,7 +2892,7 @@
 <correctAnswer>40</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02050003</questionID>
+<questionID>TNHSCCS02050003</questionID>
 <question-text>........... comprising of finite homogenous elements.</question-text>
 <answer0>One dimensional</answer0>
 <answer1>Multi dimensional</answer1>
@@ -2903,7 +2903,7 @@
 <correctAnswer>One dimensional</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02050030</questionID>
+<questionID>TNHSCCS02050030</questionID>
 <question-text>Array parameters by default behave like a parameter.</question-text>
 <answer0>value</answer0>
 <answer1>reference</answer1>
@@ -2914,7 +2914,7 @@
 <correctAnswer>reference</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02050031</questionID>
+<questionID>TNHSCCS02050031</questionID>
 <question-text>Only the array ........... represents the base address of</question-text>
 <answer0>dimension</answer0>
 <answer1>identifier</answer1>
@@ -2925,7 +2925,7 @@
 <correctAnswer>identifier</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02050032</questionID>
+<questionID>TNHSCCS02050032</questionID>
 <question-text>An array of...........is a two-dimensional character array.</question-text>
 <answer0>name</answer0>
 <answer1>string</answer1>
@@ -2936,7 +2936,7 @@
 <correctAnswer>string</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02050033</questionID>
+<questionID>TNHSCCS02050033</questionID>
 <question-text>In a string array ........... index determines the number</question-text>
 <answer0>first</answer0>
 <answer1>second</answer1>
@@ -2947,7 +2947,7 @@
 <correctAnswer>fourth</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02050034</questionID>
+<questionID>TNHSCCS02050034</questionID>
 <question-text>In a string array...........index determines the maximum</question-text>
 <answer0>first</answer0>
 <answer1>second</answer1>
@@ -2958,7 +2958,7 @@
 <correctAnswer>second</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02050004</questionID>
+<questionID>TNHSCCS02050004</questionID>
 <question-text>...........comprising of elements, each of which is itself</question-text>
 <answer0>One dimensional</answer0>
 <answer1>Multi dimensional</answer1>
@@ -2969,7 +2969,7 @@
 <correctAnswer>Multi dimensional</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02050005</questionID>
+<questionID>TNHSCCS02050005</questionID>
 <question-text>The size of the array should always be ...........</question-text>
 <answer0>negative</answer0>
 <answer1>positive</answer1>
@@ -2980,7 +2980,7 @@
 <correctAnswer>positive</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02050006</questionID>
+<questionID>TNHSCCS02050006</questionID>
 <question-text>Memory allotted for int num_array[5] is ........... bytes.</question-text>
 <answer0>2</answer0>
 <answer1>4</answer1>
@@ -2991,7 +2991,7 @@
 <correctAnswer>10</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02050007</questionID>
+<questionID>TNHSCCS02050007</questionID>
 <question-text>The array subscripts always commences from</question-text>
 <answer0>0</answer0>
 <answer1>1</answer1>
@@ -3002,7 +3002,7 @@
 <correctAnswer>0</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02050008</questionID>
+<questionID>TNHSCCS02050008</questionID>
 <question-text>One can rearrange the data in a given array either in ascending or descending order is called ...........</question-text>
 <answer0>editing</answer0>
 <answer1>merging</answer1>
@@ -3013,7 +3013,7 @@
 <correctAnswer>sorting</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02050009</questionID>
+<questionID>TNHSCCS02050009</questionID>
 <question-text>Strings are otherwise called as .........</question-text>
 <answer0>literal</answer0>
 <answer1>character</answer1>
@@ -3026,7 +3026,7 @@
 </chapter>
 <chapter name="CLASSES AND OBJECTS" number="06">
 <question>
-<questionID>TNHSCS02060001</questionID>
+<questionID>TNHSCCS02060001</questionID>
 <question-text>The most important features of C ++ is ...........</question-text>
 <answer0>class</answer0>
 <answer1>object</answer1>
@@ -3037,7 +3037,7 @@
 <correctAnswer>class</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02060010</questionID>
+<questionID>TNHSCCS02060010</questionID>
 <question-text>Which one of the following access specifier is optional.</question-text>
 <answer0>private</answer0>
 <answer1>public</answer1>
@@ -3048,7 +3048,7 @@
 <correctAnswer>private</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02060011</questionID>
+<questionID>TNHSCCS02060011</questionID>
 <question-text>Identify the access specifier in the list.</question-text>
 <answer0>private</answer0>
 <answer1>public </answer1>
@@ -3059,7 +3059,7 @@
 <correctAnswer>all of these</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02060012</questionID>
+<questionID>TNHSCCS02060012</questionID>
 <question-text>The members that have been declared as ............, cannot be accessed</question-text>
 <answer0>private</answer0>
 <answer1>public</answer1>
@@ -3070,7 +3070,7 @@
 <correctAnswer>private</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02060013</questionID>
+<questionID>TNHSCCS02060013</questionID>
 <question-text>The members that have been declared as ..........., can be accessed only within the class</question-text>
 <answer0>private</answer0>
 <answer1>public</answer1>
@@ -3081,7 +3081,7 @@
 <correctAnswer>private</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02060014</questionID>
+<questionID>TNHSCCS02060014</questionID>
 <question-text>The members that have been declared as ........... can be accessed outside the class</question-text>
 <answer0>private</answer0>
 <answer1>public</answer1>
@@ -3092,7 +3092,7 @@
 <correctAnswer>public</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02060015</questionID>
+<questionID>TNHSCCS02060015</questionID>
 <question-text>The binding of data and functions together into a single entity is referred to as ...........</question-text>
 <answer0>polymorphism</answer0>
 <answer1>encapsulation</answer1>
@@ -3103,7 +3103,7 @@
 <correctAnswer>encapsulation</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02060016</questionID>
+<questionID>TNHSCCS02060016</questionID>
 <question-text>The members and functions declared under private are not accessible by members outside the class, this is referred to as ...........</question-text>
 <answer0>data hiding</answer0>
 <answer1>encapsulation</answer1>
@@ -3114,7 +3114,7 @@
 <correctAnswer>data hiding</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02060017</questionID>
+<questionID>TNHSCCS02060017</questionID>
 <question-text>Instruments allowing only selected access of components</question-text>
 <answer0>data abstraction</answer0>
 <answer1>encapsulation</answer1>
@@ -3125,7 +3125,7 @@
 <correctAnswer>data abstraction</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02060018</questionID>
+<questionID>TNHSCCS02060018</questionID>
 <question-text>Data abstraction is achieved through ...........</question-text>
 <answer0>data hiding</answer0>
 <answer1>polymorphism</answer1>
@@ -3136,7 +3136,7 @@
 <correctAnswer>data hiding</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02060019</questionID>
+<questionID>TNHSCCS02060019</questionID>
 <question-text>..........is the key feature of object oriented programming.</question-text>
 <answer0>Data hiding</answer0>
 <answer1>Polymorphism</answer1>
@@ -3147,7 +3147,7 @@
 <correctAnswer>Data hiding</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02060002</questionID>
+<questionID>TNHSCCS02060002</questionID>
 <question-text>A ......... is a new way of creating and implementing a user defined data types </question-text>
 <answer0>class</answer0>
 <answer1>object</answer1>
@@ -3158,7 +3158,7 @@
 <correctAnswer>class</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02060020</questionID>
+<questionID>TNHSCCS02060020</questionID>
 <question-text>Private accessible by only its own members and certain</question-text>
 <answer0>friend function</answer0>
 <answer1>main function</answer1>
@@ -3169,7 +3169,7 @@
 <correctAnswer>friend function</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02060021</questionID>
+<questionID>TNHSCCS02060021</questionID>
 <question-text>Members are classified as ...........</question-text>
 <answer0>one</answer0>
 <answer1>two</answer1>
@@ -3180,7 +3180,7 @@
 <correctAnswer>two</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02060022</questionID>
+<questionID>TNHSCCS02060022</questionID>
 <question-text>......... are the data variables that represent the features</question-text>
 <answer0>Data member</answer0>
 <answer1>Member function</answer1>
@@ -3191,7 +3191,7 @@
 <correctAnswer>Data member</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02060023</questionID>
+<questionID>TNHSCCS02060023</questionID>
 <question-text>.........are the functions that perform specific task in a class.</question-text>
 <answer0>Data members</answer0>
 <answer1>Member function</answer1>
@@ -3202,7 +3202,7 @@
 <correctAnswer>Member function</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02060024</questionID>
+<questionID>TNHSCCS02060024</questionID>
 <question-text>........... are also called as methods.</question-text>
 <answer0>Data member b} Member function</answer0>
 <answer1>Both a and b</answer1>
@@ -3212,7 +3212,7 @@
 <correctAnswer>Data member</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02060025</questionID>
+<questionID>TNHSCCS02060025</questionID>
 <question-text>Identify the class variable of the above program.</question-text>
 <answer0>price</answer0>
 <answer1>code</answer1>
@@ -3223,7 +3223,7 @@
 <correctAnswer>prd</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02060026</questionID>
+<questionID>TNHSCCS02060026</questionID>
 <question-text>...........are also called as attributes.</question-text>
 <answer0>Data member</answer0>
 <answer1>Member function</answer1>
@@ -3234,7 +3234,7 @@
 <correctAnswer>Data member</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02060027</questionID>
+<questionID>TNHSCCS02060027</questionID>
 <question-text>Classes include called as constructor and destructor.</question-text>
 <answer0>special member function</answer0>
 <answer1>member function</answer1>
@@ -3245,7 +3245,7 @@
 <correctAnswer>data member</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02060028</questionID>
+<questionID>TNHSCCS02060028</questionID>
 <question-text>Student stud; In this declaration, if student is a class identify the object or class variables.</question-text>
 <answer0>student</answer0>
 <answer1>stud</answer1>
@@ -3256,7 +3256,7 @@
 <correctAnswer>stud</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02060029</questionID>
+<questionID>TNHSCCS02060029</questionID>
 <question-text>Class variables are known as ...........</question-text>
 <answer0>object</answer0>
 <answer1>data members</answer1>
@@ -3267,7 +3267,7 @@
 <correctAnswer>object</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02060003</questionID>
+<questionID>TNHSCCS02060003</questionID>
 <question-text>In class functions are also called as ...</question-text>
 <answer0>attributes</answer0>
 <answer1>methods</answer1>
@@ -3278,7 +3278,7 @@
 <correctAnswer>attributes</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02060030</questionID>
+<questionID>TNHSCCS02060030</questionID>
 <question-text>..........can also be created by placing their names immediately</question-text>
 <answer0>Data member</answer0>
 <answer1>Member function</answer1>
@@ -3289,7 +3289,7 @@
 <correctAnswer>Object</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02060031</questionID>
+<questionID>TNHSCCS02060031</questionID>
 <question-text>The member of a class are accessed using the operator.</question-text>
 <answer0>dot</answer0>
 <answer1>new</answer1>
@@ -3300,7 +3300,7 @@
 <correctAnswer>dot</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02060032</questionID>
+<questionID>TNHSCCS02060032</questionID>
 <question-text>The members defined within the class behave like ....</question-text>
 <answer0>main</answer0>
 <answer1>inline</answer1>
@@ -3311,7 +3311,7 @@
 <correctAnswer>inline</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02060033</questionID>
+<questionID>TNHSCCS02060033</questionID>
 <question-text>A member function can call another member function directly, without using the ........... operator.</question-text>
 <answer0>dot</answer0>
 <answer1>new</answer1>
@@ -3322,7 +3322,7 @@
 <correctAnswer>dot</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02060034</questionID>
+<questionID>TNHSCCS02060034</questionID>
 <question-text>Member function can be of ............ type.</question-text>
 <answer0>object</answer0>
 <answer1>static</answer1>
@@ -3333,7 +3333,7 @@
 <correctAnswer>object</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02060035</questionID>
+<questionID>TNHSCCS02060035</questionID>
 <question-text>........... member is initialized to zero, only when the first object of its class is created</question-text>
 <answer0>Static</answer0>
 <answer1>Both a and b</answer1>
@@ -3344,7 +3344,7 @@
 <correctAnswer>Static</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02060036</questionID>
+<questionID>TNHSCCS02060036</questionID>
 <question-text>........... scope or visibility is within the class but its lifetime is the lifetime of the program</question-text>
 <answer0>Static</answer0>
 <answer1>Both a and b</answer1>
@@ -3355,7 +3355,7 @@
 <correctAnswer>Static</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02060037</questionID>
+<questionID>TNHSCCS02060037</questionID>
 <question-text>class product</question-text>
 <answer0>code</answer0>
 <answer1>quantity</answer1>
@@ -3366,7 +3366,7 @@
 <correctAnswer>both a and b</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02060038</questionID>
+<questionID>TNHSCCS02060038</questionID>
 <question-text>Identify the data members which defined in public scope of the above program.</question-text>
 <answer0>price</answer0>
 <answer1>code</answer1>
@@ -3377,7 +3377,7 @@
 <correctAnswer>price</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02060039</questionID>
+<questionID>TNHSCCS02060039</questionID>
 <question-text>Identify the member function which defined in this class of the above program.</question-text>
 <answer0>assigndataQ</answer0>
 <answer1>displayO</answer1>
@@ -3388,7 +3388,7 @@
 <correctAnswer>both a and b</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02060004</questionID>
+<questionID>TNHSCCS02060004</questionID>
 <question-text>....... is a way to bind the data and its associated data members</question-text>
 <answer0>class</answer0>
 <answer1>data member</answer1>
@@ -3399,7 +3399,7 @@
 <correctAnswer>class</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02060005</questionID>
+<questionID>TNHSCCS02060005</questionID>
 <question-text>A class specification has ........... parts.</question-text>
 <answer0>one /</answer0>
 <answer1>two</answer1>
@@ -3410,7 +3410,7 @@
 <correctAnswer>one /</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02060006</questionID>
+<questionID>TNHSCCS02060006</questionID>
 <question-text>The body of the class is enclosed within ...........</question-text>
 <answer0>[]</answer0>
 <answer1>{}</answer1>
@@ -3421,7 +3421,7 @@
 <correctAnswer>{}</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02060007</questionID>
+<questionID>TNHSCCS02060007</questionID>
 <question-text>The class should be terminated by .</question-text>
 <answer0>:</answer0>
 <answer1>;</answer1>
@@ -3432,7 +3432,7 @@
 <correctAnswer>;</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02060008</questionID>
+<questionID>TNHSCCS02060008</questionID>
 <question-text>The class body has ........ access specifiers.</question-text>
 <answer0>2</answer0>
 <answer1>3</answer1>
@@ -3443,7 +3443,7 @@
 <correctAnswer>3</correctAnswer>
 </question>
 <question>
-<questionID>TNHSCS02060009</questionID>
+<questionID>TNHSCCS02060009</questionID>
 <question-text>By default the members will be treated as ........... if a</question-text>
 <answer0>private</answer0>
 <answer1>public</answer1>
@@ -3456,7 +3456,7 @@
 </chapter>
 <chapter name="POLYMORPHISM" number="07">
 <question>
-<questionID>TNHSCS02070001</questionID>
+<questionID>TNHSCCS02070001</questionID>
 <question-text>The word polymorphism means ...........</question-text>
 <answer0>many shapes</answer0>
 <answer1>many circle</answer1>
@@ -3467,7 +3467,7 @@
 <weightage>8</weightage>
 </question>
 <question>
-<questionID>TNHSCS02070010</questionID>
+<questionID>TNHSCCS02070010</questionID>
 <question-text>........... function to concatenate strings.</question-text>
 <answer0>Strcpy()</answer0>
 <answer1>Strcat()</answer1>
@@ -3478,7 +3478,7 @@
 <weightage>8</weightage>
 </question>
 <question>
-<questionID>TNHSCS02070011</questionID>
+<questionID>TNHSCCS02070011</questionID>
 <question-text>The term..........., refers to giving additional functionality</question-text>
 <answer0>function overloading</answer0>
 <answer1>operator overloading</answer1>
@@ -3489,7 +3489,7 @@
 <weightage>8</weightage>
 </question>
 <question>
-<questionID>TNHSCS02070012</questionID>
+<questionID>TNHSCCS02070012</questionID>
 <question-text>........... operators cannot be overloaded.</question-text>
 <answer0>::</answer0>
 <answer1>.</answer1>
@@ -3500,7 +3500,7 @@
 <weightage>8</weightage>
 </question>
 <question>
-<questionID>TNHSCS02070013</questionID>
+<questionID>TNHSCCS02070013</questionID>
 <question-text>The overloaded operator must have atleast ...........operand</question-text>
 <answer0>two</answer0>
 <answer1>three</answer1>
@@ -3511,7 +3511,7 @@
 <weightage>8</weightage>
 </question>
 <question>
-<questionID>TNHSCS02070015</questionID>
+<questionID>TNHSCCS02070015</questionID>
 <question-text>When binary operators&apos; are overloaded,&apos;ffie&amp;apos; left-hand object must be an ........... of the-relevant class.</question-text>
 <answer0>-object</answer0>
 <answer1>variable &apos; &amp; &amp;&apos;</answer1>
@@ -3522,7 +3522,7 @@
 <weightage>8</weightage>
 </question>
 <question>
-<questionID>TNHSCS02070016</questionID>
+<questionID>TNHSCCS02070016</questionID>
 <question-text>Binary operators overloaded through a member function take ........... explicit argument.</question-text>
 <answer0>one</answer0>
 <answer1>two</answer1>
@@ -3533,7 +3533,7 @@
 <weightage>8</weightage>
 </question>
 <question>
-<questionID>TNHSCS02070017</questionID>
+<questionID>TNHSCCS02070017</questionID>
 <question-text>Write out the statement that invokes the overloaded member function.</question-text>
 <answer0>-n2</answer0>
 <answer1>n2.displayO</answer1>
@@ -3544,7 +3544,7 @@
 <weightage>8</weightage>
 </question>
 <question>
-<questionID>TNHSCS02070018</questionID>
+<questionID>TNHSCCS02070018</questionID>
 <question-text>What type of operand used for the operator overloading in the above program.</question-text>
 <answer0>int</answer0>
 <answer1>class</answer1>
@@ -3555,7 +3555,7 @@
 <weightage>8</weightage>
 </question>
 <question>
-<questionID>TNHSCS02070019</questionID>
+<questionID>TNHSCCS02070019</questionID>
 <question-text>Write out the prototype of the overloaded member function.</question-text>
 <answer0>void operator-()</answer0>
 <answer1>void accept()</answer1>
@@ -3566,7 +3566,7 @@
 <weightage>8</weightage>
 </question>
 <question>
-<questionID>TNHSCS02070002</questionID>
+<questionID>TNHSCCS02070002</questionID>
 <question-text>...........is achieved through function overloading </question-text>
 <answer0>Inheritance</answer0>
 <answer1>Polymorphism</answer1>
@@ -3577,7 +3577,7 @@
 <weightage>8</weightage>
 </question>
 <question>
-<questionID>TNHSCS02070020</questionID>
+<questionID>TNHSCCS02070020</questionID>
 <question-text>Identify the objects in the above program.</question-text>
 <answer0>n2</answer0>
 <answer1>nl</answer1>
@@ -3588,7 +3588,7 @@
 <weightage>8</weightage>
 </question>
 <question>
-<questionID>TNHSCS02070003</questionID>
+<questionID>TNHSCCS02070003</questionID>
 <question-text>........... refers to a function having more than one form</question-text>
 <answer0>Operator overloading</answer0>
 <answer1>Function overloading</answer1>
@@ -3599,7 +3599,7 @@
 <weightage>8</weightage>
 </question>
 <question>
-<questionID>TNHSCS02070004</questionID>
+<questionID>TNHSCCS02070004</questionID>
 <question-text>The ........... will promote integral data promotions.</question-text>
 <answer0>algorithm</answer0>
 <answer1>compiler</answer1>
@@ -3610,7 +3610,7 @@
 <weightage>8</weightage>
 </question>
 <question>
-<questionID>TNHSCS02070005</questionID>
+<questionID>TNHSCCS02070005</questionID>
 <question-text>........... data type can be converted to integer/float/</question-text>
 <answer0>Int</answer0>
 <answer1>Char</answer1>
@@ -3621,7 +3621,7 @@
 <weightage>8</weightage>
 </question>
 <question>
-<questionID>TNHSCS02070006</questionID>
+<questionID>TNHSCCS02070006</questionID>
 <question-text>..........data type can be converted to integer/double/char.</question-text>
 <answer0>Int</answer0>
 <answer1>Float</answer1>
@@ -3632,7 +3632,7 @@
 <weightage>8</weightage>
 </question>
 <question>
-<questionID>TNHSCS02070007</questionID>
+<questionID>TNHSCCS02070007</questionID>
 <question-text>...........data type can be converted to float or integer</question-text>
 <answer0>Double</answer0>
 <answer1>Float</answer1>
@@ -3643,7 +3643,7 @@
 <weightage>8</weightage>
 </question>
 <question>
-<questionID>TNHSCS02070008</questionID>
+<questionID>TNHSCCS02070008</questionID>
 <question-text>Each overloaded function must differ either by the number of its ........... or their ...........</question-text>
 <answer0>format parameter</answer0>
 <answer1>data types</answer1>
@@ -3654,7 +3654,7 @@
 <weightage>8</weightage>
 </question>
 <question>
-<questionID>TNHSCS02070009</questionID>
+<questionID>TNHSCCS02070009</questionID>
 <question-text>The ........... arguments of overloaded functions are not considered by the c++ compiler</question-text>
 <answer0>actual</answer0>
 <answer1>default</answer1>
@@ -3667,7 +3667,7 @@
 </chapter>
 <chapter name="CONSTRUCTOR AND DESTRUCTOR" number="08">
 <question>
-<questionID>TNHSCS02080001</questionID>
+<questionID>TNHSCCS02080001</questionID>
 <question-text>When an instance of a class comes into scope, a special function called the ........... gets executed.</question-text>
 <answer0>constructor</answer0>
 <answer1>destructor</answer1>
@@ -3678,7 +3678,7 @@
 <weightage>8</weightage>
 </question>
 <question>
-<questionID>TNHSCS02080010</questionID>
+<questionID>TNHSCCS02080010</questionID>
 <question-text>...........constructor is executed when an object without parameters is declared</question-text>
 <answer0>Parameterized</answer0>
 <answer1>Copy</answer1>
@@ -3689,7 +3689,7 @@
 <weightage>8</weightage>
 </question>
 <question>
-<questionID>TNHSCS02080011</questionID>
+<questionID>TNHSCCS02080011</questionID>
 <question-text>A destructor begins with ........... symbol.</question-text>
 <answer0>/</answer0>
 <answer1>!</answer1>
@@ -3700,7 +3700,7 @@
 <weightage>8</weightage>
 </question>
 <question>
-<questionID>TNHSCS02080012</questionID>
+<questionID>TNHSCCS02080012</questionID>
 <question-text>........... generates a constructor, in the absence of user defined constructor</question-text>
 <answer0>Compiler</answer0>
 <answer1>Algorithm</answer1>
@@ -3711,7 +3711,7 @@
 <weightage>8</weightage>
 </question>
 <question>
-<questionID>TNHSCS02080013</questionID>
+<questionID>TNHSCCS02080013</questionID>
 <question-text>........... cannot have arguments.</question-text>
 <answer0>Constructor</answer0>
 <answer1>Destructor</answer1>
@@ -3722,7 +3722,7 @@
 <weightage>8</weightage>
 </question>
 <question>
-<questionID>TNHSCS02080014</questionID>
+<questionID>TNHSCCS02080014</questionID>
 <question-text>...........constructor is executed, when an object is passed</question-text>
 <answer0>Default</answer0>
 <answer1>Copy</answer1>
@@ -3733,7 +3733,7 @@
 <weightage>8</weightage>
 </question>
 <question>
-<questionID>TNHSCS02080015</questionID>
+<questionID>TNHSCCS02080015</questionID>
 <question-text>Identify the copy constructor for the class add.</question-text>
 <answer0>add()</answer0>
 <answer1>add(int a, int b)</answer1>
@@ -3744,7 +3744,7 @@
 <weightage>8</weightage>
 </question>
 <question>
-<questionID>TNHSCS02080002</questionID>
+<questionID>TNHSCCS02080002</questionID>
 <question-text>When a class object goes out of scope , a special function called ........... destructor gets executed.</question-text>
 <answer0>constructor</answer0>
 <answer1>destructor</answer1>
@@ -3755,7 +3755,7 @@
 <weightage>8</weightage>
 </question>
 <question>
-<questionID>TNHSCS02080003</questionID>
+<questionID>TNHSCCS02080003</questionID>
 <question-text>The constructor function name and the destructor have the same name as the ...........</question-text>
 <answer0>data member name</answer0>
 <answer1>class name</answer1>
@@ -3766,7 +3766,7 @@
 <weightage>8</weightage>
 </question>
 <question>
-<questionID>TNHSCS02080004</questionID>
+<questionID>TNHSCCS02080004</questionID>
 <question-text>............ function return nothing.</question-text>
 <answer0>Void</answer0>
 <answer1>Constructor</answer1>
@@ -3777,7 +3777,7 @@
 <weightage>8</weightage>
 </question>
 <question>
-<questionID>TNHSCS02080005</questionID>
+<questionID>TNHSCCS02080005</questionID>
 <question-text>...... function initializes the class object.</question-text>
 <answer0>Constructor</answer0>
 <answer1>Destructor</answer1>
@@ -3788,7 +3788,7 @@
 <weightage>8</weightage>
 </question>
 <question>
-<questionID>TNHSCS02080006</questionID>
+<questionID>TNHSCCS02080006</questionID>
 <question-text>.... allots the memory space required for an object.</question-text>
 <answer0>Constructor</answer0>
 <answer1>Destructor</answer1>
@@ -3799,7 +3799,7 @@
 <weightage>8</weightage>
 </question>
 <question>
-<questionID>TNHSCS02080007</questionID>
+<questionID>TNHSCCS02080007</questionID>
 <question-text>Overloading is possible for ...........</question-text>
 <answer0>constructor</answer0>
 <answer1>function</answer1>
@@ -3810,7 +3810,7 @@
 <weightage>8</weightage>
 </question>
 <question>
-<questionID>TNHSCS02080008</questionID>
+<questionID>TNHSCCS02080008</questionID>
 <question-text>Overloading is not possible to ...........</question-text>
 <answer0>constructor</answer0>
 <answer1>function</answer1>
@@ -3821,7 +3821,7 @@
 <weightage>8</weightage>
 </question>
 <question>
-<questionID>TNHSCS02080009</questionID>
+<questionID>TNHSCCS02080009</questionID>
 <question-text>A constructor without parameter is called ............</question-text>
 <answer0>default constructor</answer0>
 <answer1>copy constructor</answer1>
@@ -3834,7 +3834,7 @@
 </chapter>
 <chapter name="Inheritance" number="09">
 <question>
-<questionID>TNHSCS02090001</questionID>
+<questionID>TNHSCCS02090001</questionID>
 <question-text>........... is the most powerful feature of an object</question-text>
 <answer0>Inheritance</answer0>
 <answer1>Polymorphism</answer1>
@@ -3845,7 +3845,7 @@
 <weightage>8</weightage>
 </question>
 <question>
-<questionID>TNHSCS02090010</questionID>
+<questionID>TNHSCCS02090010</questionID>
 <question-text>When a base class is inherited with ........... visibility</question-text>
 <answer0>public</answer0>
 <answer1>protected</answer1>
@@ -3856,7 +3856,7 @@
 <weightage>8</weightage>
 </question>
 <question>
-<questionID>TNHSCS02090011</questionID>
+<questionID>TNHSCCS02090011</questionID>
 <question-text>The ......... of the base class are not inherited</question-text>
 <answer0>constructor</answer0>
 <answer1>destructor</answer1>
@@ -3867,7 +3867,7 @@
 <weightage>8</weightage>
 </question>
 <question>
-<questionID>TNHSCS02090012</questionID>
+<questionID>TNHSCCS02090012</questionID>
 <question-text>There are ........... types of inheritance.</question-text>
 <answer0>one</answer0>
 <answer1>two</answer1>
@@ -3878,7 +3878,7 @@
 <weightage>8</weightage>
 </question>
 <question>
-<questionID>TNHSCS02090013</questionID>
+<questionID>TNHSCCS02090013</questionID>
 <question-text>When a derived class inherits only from one base class, is known as ...........</question-text>
 <answer0>single inheritance</answer0>
 <answer1>multiple inheritance</answer1>
@@ -3889,7 +3889,7 @@
 <weightage>8</weightage>
 </question>
 <question>
-<questionID>TNHSCS02090014</questionID>
+<questionID>TNHSCCS02090014</questionID>
 <question-text>When a derived class inherits from multiple base classes it is known as ...........</question-text>
 <answer0>single inheritance</answer0>
 <answer1>multiple inheritance</answer1>
@@ -3900,7 +3900,7 @@
 <weightage>8</weightage>
 </question>
 <question>
-<questionID>TNHSCS02090015</questionID>
+<questionID>TNHSCCS02090015</questionID>
 <question-text>When a class is derived from a class which is a derived class itself is referred to as ...........</question-text>
 <answer0>single inheritance</answer0>
 <answer1>multiple inheritance</answer1>
@@ -3911,7 +3911,7 @@
 <weightage>8</weightage>
 </question>
 <question>
-<questionID>TNHSCS02090016</questionID>
+<questionID>TNHSCCS02090016</questionID>
 <question-text>............ are executed in the reverse order.</question-text>
 <answer0>Constructor</answer0>
 <answer1>Destructor</answer1>
@@ -3922,7 +3922,7 @@
 <weightage>8</weightage>
 </question>
 <question>
-<questionID>TNHSCS02090017</questionID>
+<questionID>TNHSCCS02090017</questionID>
 <question-text>Classes used only for deriving other classes are called as</question-text>
 <answer0>abstract class</answer0>
 <answer1>derived class</answer1>
@@ -3933,7 +3933,7 @@
 <weightage>8</weightage>
 </question>
 <question>
-<questionID>TNHSCS02090018</questionID>
+<questionID>TNHSCCS02090018</questionID>
 <question-text>...........is not possible to create for an abstract class.</question-text>
 <answer0>Object</answer0>
 <answer1>Data member</answer1>
@@ -3944,7 +3944,7 @@
 <weightage>8</weightage>
 </question>
 <question>
-<questionID>TNHSCS02090019</questionID>
+<questionID>TNHSCCS02090019</questionID>
 <question-text>Access specifier is also referred to as</question-text>
 <answer0>Accessibility</answer0>
 <answer1>Visibility mode</answer1>
@@ -3955,7 +3955,7 @@
 <weightage>8</weightage>
 </question>
 <question>
-<questionID>TNHSCS02090002</questionID>
+<questionID>TNHSCCS02090002</questionID>
 <question-text>...........is a process of creating a new classes from the existing class</question-text>
 <answer0>Polymorphism</answer0>
 <answer1>Inheritance</answer1>
@@ -3966,7 +3966,7 @@
 <weightage>8</weightage>
 </question>
 <question>
-<questionID>TNHSCS02090020</questionID>
+<questionID>TNHSCCS02090020</questionID>
 <question-text>Classes used for deriving other classes is called as__________</question-text>
 <answer0>Abstract class</answer0>
 <answer1>Public class</answer1>
@@ -3977,7 +3977,7 @@
 <weightage>8</weightage>
 </question>
 <question>
-<questionID>TNHSCS02090003</questionID>
+<questionID>TNHSCCS02090003</questionID>
 <question-text>Advantages of inheritance is ...........</question-text>
 <answer0>reusability of code</answer0>
 <answer1>code sharing</answer1>
@@ -3988,7 +3988,7 @@
 <weightage>8</weightage>
 </question>
 <question>
-<questionID>TNHSCS02090004</questionID>
+<questionID>TNHSCCS02090004</questionID>
 <question-text>............is a class from which other classes are derived.</question-text>
 <answer0>Base class</answer0>
 <answer1>Derived class</answer1>
@@ -3999,7 +3999,7 @@
 <weightage>8</weightage>
 </question>
 <question>
-<questionID>TNHSCS02090005</questionID>
+<questionID>TNHSCCS02090005</questionID>
 <question-text>A ........... class can inherit members of base class.</question-text>
 <answer0>Base</answer0>
 <answer1>Derived</answer1>
@@ -4010,7 +4010,7 @@
 <weightage>8</weightage>
 </question>
 <question>
-<questionID>TNHSCS02090006</questionID>
+<questionID>TNHSCCS02090006</questionID>
 <question-text>The base class name and derived class name should be within </question-text>
 <answer0>:</answer0>
 <answer1>;</answer1>
@@ -4021,7 +4021,7 @@
 <weightage>8</weightage>
 </question>
 <question>
-<questionID>TNHSCS02090007</questionID>
+<questionID>TNHSCCS02090007</questionID>
 <question-text>The default visibility mode of a constructor is?</question-text>
 <answer0>public</answer0>
 <answer1>protected</answer1>
@@ -4032,7 +4032,7 @@
 <weightage>8</weightage>
 </question>
 <question>
-<questionID>TNHSCS02090008</questionID>
+<questionID>TNHSCCS02090008</questionID>
 <question-text>Which access specifier is accessible by members of inherited class?</question-text>
 <answer0>public</answer0>
 <answer1>protected</answer1>
@@ -4043,7 +4043,7 @@
 <weightage>8</weightage>
 </question>
 <question>
-<questionID>TNHSCS02090009</questionID>
+<questionID>TNHSCCS02090009</questionID>
 <question-text>Which form of inheritance is reflected by the transitive naturre of inheritance</question-text>
 <answer0>Multilevel</answer0>
 <answer1>Multiple level</answer1>
